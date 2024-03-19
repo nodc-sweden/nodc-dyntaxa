@@ -5,6 +5,8 @@ import sys
 from .dyntaxa_taxon import DyntaxaTaxon
 from .dyntaxa_whitelist import DyntaxaWhitelist
 from .translate_dyntaxa import TranslateDyntaxa
+from .red_list_species import RedListSpecies
+
 
 if getattr(sys, 'frozen', False):
     THIS_DIR = pathlib.Path(sys.executable).parent
@@ -33,3 +35,9 @@ def get_dyntaxa_taxon_object(filter_whitelist=True) -> "DyntaxaTaxon":
         filter_list = get_dyntaxa_whitelist_object().list
     path = CONFIG_DIR / "Taxon.csv"
     return DyntaxaTaxon(path, filter_list=filter_list)
+
+
+@functools.cache
+def get_red_list_object() -> "RedListSpecies":
+    path = CONFIG_DIR / 'red_list_species.txt'
+    return RedListSpecies(path)
