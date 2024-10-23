@@ -1,785 +1,959 @@
-taxon_name_from	taxon_name_to	Match_type	Match_origin	taxon_id (if not in DynTaxa)	Note
-218387	Mytilus edulis	antag felstav			
-219603	Ruppia spiralis	dyntaxaid			
-221782	Plantago uniflora	dyntaxaid			
-322829	Cladophora rupestris	felstav			rätt 232829
-###Apocalathium	Scrippsiella	antag felstav			Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Cocconeis placentula	Cocconeis placentula s.lat.	OK		237797	
-###Dictyocha speculum	Octactis speculum	antag felstav			Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Eukaryota					
-###Eukaryotic picoplankton species incertae sedis				99990004	AA filterfunktion
-###Flagellate				99990002	AA filterfunktion
-###Fragilaria capucina	Fragilaria capucina s.lat.	OK		238013	
-###Gomphonema olivaceum	Gomphonema olivaceum s.lat.	Exact	Dyntaxa		
-###Gymnodinium simplex	Protodinium simplex	antag felstav			Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Monoraphidium arcuatum	Ankistrodesmus arcuatus	antag felstav			Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Odontella sinensis	Trieres chinensis	antag felstav			Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Oocystis solitaria	Neglectella solitaria	antag felstav			Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Paraphysomonas	Paraphysomonas s.lat.	Exact	Dyntaxa		
-###Pectinaria	Pectinaria s.lat.	OK		1007565	
-###Picoplankton				99990005	AA filterfunktion
-###Rhodomonas baltica	Cryptomonas baltica	antag felstav			Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Scrippsiella hangoei	Apocalathium malmogiense	antag felstav			automatic dyntaxa translation. Båda accepterade i Dyntaxa Odontella sinensis accepterad i HELCOM PEG
-###Scrippsiella trochoidea	Scrippsiella acuminata	antag felstav			Tills att Dyntaxa är uppdaterat borde denna översättning göras. Men eftersom några stlcl inom Scrippsiella fortfarande ska heta Scrippsiella kommenterades denna ut för att kunna leverera enligt HELCOM PEG 
-###Synedra ulna	Ulnaria ulna s.lat.	OK		262369	
-###test				99990099	AA filterfunktion
-###Unicell				99990001	AA filterfunktion
-###Unicells and flagellates				99990003	AA filterfunktion
-Abyssoninoe hibarnica	Abyssoninoe hibernica	antag felstav			
-Acarina	Acari	Exact	Dyntaxa		
-Acartia (Acanthacartia) bifilosa	Acartia bifilosa	Exact	Dyntaxa		
-Acartia (Acanthacartia) tonsa	Acartia tonsa	Exact	Dyntaxa		
-Acartia (Acartiura) longiremis	Acartia longiremis	Exact	Dyntaxa		
-Achnanthes longipes	Achnanthes armillaris	Exact	Dyntaxa		
-Achnanthes taeniata	Pauliella taeniata	OK		237490	
-Acidostoma nodiferum	Acidostoma obesum	exact	Worms		
-Acidostoma obesun	Acidostoma obesum	antag felstav			
-Acmaea	Tectura	Exact	Dyntaxa		
-Acrosiphonia/Spongomorpha	Ulotrichaceae	antag felstav			
-Acrosiphoniaceae	Ulotrichaceae	exact	Worms		
-actiniaria	Actiniaria	felstav			
-Actiniarida	Actiniaria	Exact	Dyntaxa		
-Actinocyclus octonarius var, octonarius	Actinocyclus octonarius var. octonarius	antag felstav			
-Actinocylus octonarius	Actinocyclus octonarius	antag felstav			
-Actinoptychus octonarius	Actinocyclus octonarius	Exact	Dyntaxa		
-Acutodesmus acuminatus	Tetradesmus lagerheimii	Exact	Dyntaxa		
-Acutodesmus obliquus	Tetradesmus obliquus	Exact	Dyntaxa		
-Aglaophamus pulchra	Aglaophamus pulcher	Exact	Dyntaxa		
-Aglaophamus rubella	Aglaophamus agilis	Exact	Dyntaxa		
-Algae koloni	Algae	antag felstav			
-Alvania abyssicola	Alvania testae	Exact	Dyntaxa		
-Alvania beani	Alvania beanii	Exact	Dyntaxa		
-Alvania semistriata	Crisilla semistriata	antag felstav			
-Amblyops abbreviata	Amblyops abbreviatus	Exact	Dyntaxa		
-Amblyraja  radiata	Amblyraja radiata	felstav			
-Ampelisca macrocephale	Ampelisca macrocephala	antag felstav			
-Ampharetae lindstroemi	Ampharete lindstroemi	antag felstav			
-Ampharete acutifrons	Ampharete grubei	Exact	Dyntaxa		
-Amphidinium pellucidum	Gymnodinium venator	Exact	Dyntaxa		
-Amphiprora paludosa	Entomoneis paludosa	Exact	Dyntaxa		
-Amphiprora paludosa var. paludosa	Entomoneis paludosa var. paludosa	Exact	Dyntaxa		
-Amphithoe rubricata	Ampithoe rubricata	Exact	Dyntaxa		
-Amphora coffeaeformis	Halamphora coffeiformis	Exact	Dyntaxa		
-Anabaena circinalis	Dolichospermum sigmoideum	exact	Worms		
-Anabaena crassa	Dolichospermum crassum	Exact	Dyntaxa		
-Anabaena flos-aquae	Dolichospermum flosaquae	Exact	Dyntaxa		
-Anabaena lemmermannii	Dolichospermum lemmermannii	exact	Worms		
-Anabaena macrospora	Dolichospermum macrosporum	Exact	Dyntaxa		
-Anabaena planctonica	Dolichospermum planctonicum	Exact	Dyntaxa		
-Anabaena solitaria	Dolichospermum solitarium	Exact	Dyntaxa		
-Anabaena spiroides	Dolichospermum spiroides	Exact	Dyntaxa		
-Anaitides	Phyllodoce	Exact	Dyntaxa		
-Anaitides groenlandica	Phyllodoce groenlandica	Exact	Dyntaxa		
-Anaitides longipes	Phyllodoce longipes	Exact	Dyntaxa		
-Anaitides maculata	Phyllodoce maculata	Exact	Dyntaxa		
-Anaitides mucosa	Phyllodoce mucosa	Exact	Dyntaxa		
-Anaitides subulifera	Phyllodoce rosea	Exact	Dyntaxa		
-Angulus tenuis	Macomangulus tenuis	Exact	Dyntaxa		
-Ankistrodesmus arcuatus	Monoraphidium arcuatum	antag felstav			
-Ansates pellucida	Patella pellucida	Exact	Dyntaxa		
-Antalis entale	Antalis entalis	antag felstav			
-Anthomedusae	Anthoathecata	Exact	Dyntaxa		
-Aphanizomenon flos-aquae	Aphanizomenon flosaquae	Exact	Dyntaxa		
-Aphanizomenon issatschenkoi	Cuspidothrix issatschenkoi	exact	Worms		
-Aphanothece bachmannii	Anathece bachmannii	Exact	Dyntaxa		
-Aphanothece clathrata	Anathece clathrata	Exact	Dyntaxa		
-Aphanothece minutissima	Anathece minutissima	Exact	Dyntaxa		
-Aphrodite aculeata	Aphrodita aculeata	antag felstav			
-Apocalathium malmogiense	Scrippsiella hangoei	antag felstav			
-Aporrhais pespelicani	Aporrhais pespelecani	antag felstav			
-Aporrhais pespelicanis	Aporrhais pespelecani	Exact	Dyntaxa		
-Appendicullaria	Appendicularia	antag felstav			
-Arcturella dilatata	Astacilla dilatata	Exact	Dyntaxa		
-Aricidea cerutti	Aricidea cerrutii	antag felstav			
-Aricidea jeffreysi	Aricidea cerrutii	Exact	Dyntaxa		
-Aricidea lyra	Paradoneis lyra	Exact	Dyntaxa		
-Aricidea suecica	Aricidea (Strelzovia) suecica	exact_subgenus	Worms		
-Artacama proboscoidea	Artacama proboscidea	antag felstav			
-Ascidella scabra	Ascidiella scabra	antag felstav			
-Astacilla affinis	Astacilla intermedia	Exact	Dyntaxa		
-Asterope norvegica	Prionotoleberis norvegica	exact	Worms		
-Athanas nitiscens	Athanas nitescens	antag felstav			
-Athecata	Anthoathecata	Exact	Dyntaxa		
-Atylus swammerdami	Nototropis swammerdami	Exact	Dyntaxa		
-Atylus vedlomensis	Nototropis vedlomensis	Exact	Dyntaxa		
-Aulacoseira islandica ssp. helvetica	Aulacoseira islandica subsp. helvetica	Exact	Dyntaxa		
-Aulacoseira islandica ssp. islandica	Aulacoseira islandica subsp. islandica	Exact	Dyntaxa		
-Axinella	Phakellia	OK		1005212	
-Axinella infundibuliformis / Phakellia ventilabrum	Axinella infundibuliformis/Phakellia ventilabrum	antag felstav			
-Balanus improvis	Amphibalanus improvisus	antag felstav			
-Balanus improvisus	Amphibalanus improvisus	exact	Worms		
-Balcis devians	Vitreolina philippi sensu Warén	Exact	Dyntaxa	233612	
-Balcis philippi	Vitreolina philippi sensu Warén	Exact	Dyntaxa	233612	
-Bela brachystoma	Sorgenfreispira brachystoma	Exact	Dyntaxa		
-Beröe cucumis	Beroe cucumis	Exact	Dyntaxa		
-Bivalvia (Lamellibranchiata)	Bivalvia	antag felstav			
-Bonnemaisonia hamifera / Spermothamnion repens	Bonnemaisonia hamifera/Spermothamnion repens	antag felstav			
-Bosmina (Eubosmina) coregoni	Bosmina coregoni	Exact	Dyntaxa		
-Bosmina coregoni longirostris	Bosmina coregoni	antag felstav			
-Bosmina coregoni maritima	Bosmina longispina maritima	Exact	Dyntaxa		
-Bosmina maritima	Bosmina longispina maritima	Exact	Dyntaxa		
-Botryllus schlosseri / Botrylloides leachii	Botryllus schlosseri/Botrylloides leachii	antag felstav			
-Branchistoma	Branchiostoma	Exact	Dyntaxa		
-Buccinum undatum / Neptunea antiqua	Buccinum undatum/Neptunea antiqua	antag felstav			
-Byblis gaimardi	Byblis gaimardii	Exact	Dyntaxa		
-Bylgides groenlandica	Bylgides groenlandicus	Exact	Dyntaxa		
-Calianassa subteranea	Callianassa subterranea	antag felstav			
-Calianassa subterranea	Callianassa subterranea	Exact	Dyntaxa		
-Calliannassa subteranea	Callianassa subterranea	antag felstav			
-Callophyllis cristata	Euthora cristata	Exact	Dyntaxa		
-Camptochironomus	Chironomus (Camptochironomus)	Exact	Dyntaxa		
-Caprellidea	Caprelloidea	exact	Worms		
-Cardium echinatum	Acanthocardia echinata	Exact	Dyntaxa		
-Cardium minimum	Papillicardium minimum	Exact	Dyntaxa		
-Cardium ovale	Parvicardium pinnulatum	Exact	Dyntaxa		
-Caulleriella killariensis	Tharyx killariensis	Exact	Dyntaxa		
-Caulleriella zetlandica	Chaetozone zetlandica	Exact	Dyntaxa		
-Centrales	Coscinodiscophyceae				
-Cephalochordata (Branchiostoma)	Branchiostoma	antag felstav			
-Ceramium rubrum	Ceramium virgatum	Exact	Dyntaxa		
-Ceramium strictum	Ceramium tenuicorne	Exact	Dyntaxa		
-Ceratium bucephalum	Tripos bucephalus	Exact	Dyntaxa		
-Ceratium furca	Tripos furca	Exact	Dyntaxa		växtplankton
-Ceratium fusus	Tripos fusus	Exact	Dyntaxa		växtplankton
-Ceratium horridum	Tripos horridus	Exact	Dyntaxa		växtplankton
-Ceratium lineatum	Tripos lineatus	Exact	Dyntaxa		växtplankton
-Ceratium longipes	Tripos longipes	Exact	Dyntaxa		växtplankton
-Ceratium macroceros	Tripos macroceros	Exact	Dyntaxa		växtplankton
-Ceratium minutum	Tripos minutus	Exact	Dyntaxa		växtplankton
-Ceratium tripos	Tripos muelleri	Exact	Dyntaxa		växtplankton
-Ceratoneis closterium	Cylindrotheca closterium	Exact	Dyntaxa		
-Cercopagis (Cercopagis) pengoi	Cercopagis pengoi	antag felstav			
-Cerianthus lloydiii	Cerianthus lloydii	antag felstav			
-Chaetoceros didymus var. protuberans	Chaetoceros protuberans	Exact	Dyntaxa		
-Chaetoceros socialis f. radians	Chaetoceros radians	exact	Worms		
-Chaetoceros throndsenii v. throndseinii	Chaetoceros throndsenii var. throndsenii	antag felstav			
-Chaetoceros throndsenii var, throndseinii	Chaetoceros throndsenii var. throndsenii	antag felstav			
-Chaetoceros throndsenii var. Throndseinii	Chaetoceros throndsenii var. throndsenii	antag felstav			
-Chaetocladius	Chaetocladus	phonetic	Worms		
-Chaetodermomorpha	Caudofoveata	Exact	Dyntaxa		
-Chaetogammarus marinus	Echinogammarus marinus	Exact	Dyntaxa		
-Chaetomorpha melangonium	Chaetomorpha melagonium	antag felstav			
-Chaetopterus frgm	Chaetopterus 	antag felstav			
-Chamelea gallina	Chamelea striatula	Exact	Dyntaxa		
-Chaoborus	Chaoborus (Chaoborus)	OK		251641	
-Chattonella verruculosa	Pseudochattonella verruculosa	Exact	Dyntaxa		
-Cheirocrathus sundevalli	Cheirocratus sundevalli	antag felstav			
-Cheirocratus sundevalli	Cheirocratus sundevallii	Exact	Dyntaxa		
-Chelidonichthys gurnardus	Eutrigla gurnardus	Exact	Dyntaxa		
-Chironemidae	Chironomidae	antag felstav			
-Chlamys septemradiatus	Pseudamussium peslutrae	Exact	Dyntaxa		
-Chlorococcales	Chlamydomonadales	Exact	Dyntaxa		
-Choanoflagellidea	Choanoflagellatea	Exact	Dyntaxa		
-Chorda filum/Halosiphon tomentosus	Phaeophyceae 	antag felstav			
-Chroococcus limneticus	Limnococcus limneticus	Exact	Dyntaxa		
-Chroococcus microscopicus	Eucapsis microscopica	Exact	Dyntaxa		
-Chrysochromulina ericina	Haptolina ericina	Exact	Dyntaxa		
-Chrysochromulina hirta	Haptolina hirta	Exact	Dyntaxa		
-Chrysochromulina polylepis	Prymnesium polylepis	Exact	Dyntaxa		
-Chrysoflagellat	Chrysophyceae	antag felstav			
-Cingula semistriata	Crisilla semistriata	Exact	Dyntaxa		
-Cirrophorus eliasoni	Paradoneis eliasoni	Exact	Dyntaxa		
-Cladophora aegagropila	Aegagropila linnaei	Exact	Dyntaxa		
-Clathrus turtonis	Epitonium turtonis	Exact	Dyntaxa		
-Clavelina lepadiformes	Clavelina lepadiformis	Exact	Dyntaxa		
-Closterium acutum var.acutum	Closterium acutum var. Acutum	antag felstav			
-Clymenella cincta	Maldane cincta	Exact	Dyntaxa		
-Cnidaria/Bryozoa	Animalia	Special			
-Corophidae	Corophiidae	Exact	Dyntaxa		
-Corophium affine	Medicorophium affine	Exact	Dyntaxa		
-Corophium bonelli	Crassicorophium bonnellii	Exact	Dyntaxa		
-Corophium bonnellii	Crassicorophium bonnellii	Exact	Dyntaxa		
-Corophium insidiosum	Monocorophium insidiosum	Exact	Dyntaxa		
-Corophium lacustre	Apocorophium lacustre	Exact	Dyntaxa		
-Corycaeus anglicus	Ditrichocorycaeus anglicus	Exact	Dyntaxa		
-Coryphella lineata	Fjordia lineata	Exact	Dyntaxa		
-Coscinodiscus commutatus	Coscinodiscopsis commutata	Exact	Dyntaxa		
-Crangon allmani	Crangon allmanni	Exact	Dyntaxa		
-Crania anomala	Novocrania anomala	exact	Worms		
-Craspedophyceae	Choanoflagellatea	Exact	Dyntaxa		
-Crassostrea gigas	Magallana gigas	Exact	Dyntaxa		
-Crucigeniella	Crucigenia	OK		1010745	
-Crucigeniella apiculata	Willea apiculata	Exact	Dyntaxa		
-Crucigeniella rectangularis	Willea rectangularis	Exact	Dyntaxa		
-Cryptomonas baltica	Rhodomonas baltica	antag felstav			
-Ctenolabrus rupestri	Ctenolabrus rupestris	felstav			
-#Ctenophora	Ctenophora (Ctenophora)	OK		249727	Kammanet i dyntaxa har id 5000006 den andra 249727 är en insekt
-Ctenophora				5000006	
-Cucumaria elongata	Leptopentacta elongata	Exact	Dyntaxa		
-Cultellus pellucidus	Phaxas pellucidus	Exact	Dyntaxa		
-Cuspidaria abbreviata	Tropidomya abbreviata	exact	Worms		
-Cyanodictyon imperfectum	Cyanocatena imperfecta	exact	Worms		
-Cyanophtalma obscura	Cyanophthalma obscura	antag felstav			
-Cyanophycae	Cyanophyceae	antag felstav			
-Cyanophyta	Cyanobacteria	Exact	Dyntaxa		
-Cyanophyta sp	Cyanophyta 	antag felstav			
-Cymatopleura solea	Cymatopleura solea var. solea	OK		237914	
-Cymbella lanceolata	Cymbella neolanceolata	Exact	Dyntaxa		
-Cypridina megalops	Skogsbergia megalops	exact	Worms		
-Decipula tenella	Tellimya tenella	antag felstav			
-Demicryptochironomus	Demicryptochironomus (Demicryptochironomus)	OK		235310	
-Desmodesmus quadricauda	Scenedesmus quadricauda	Exact	Dyntaxa		
-Desmosoma filipes	Eugerda filipes	exact	Worms		
-Diaphana hyalina	Diaphana minuta	Exact	Dyntaxa		
-Diastylis biplicata	Diastyloides biplicatus	Exact	Dyntaxa		
-Diastylis luficera	Diastylis lucifera	antag felstav			
-Diastyloides biplicata	Diastyloides biplicatus	Exact	Dyntaxa		
-Diastyloides serrata	Diastyloides serratus	Exact	Dyntaxa		
-Diatomophyceae	Bacillariophyta	Exact	Dyntaxa		
-Dictyosphaerium ehrenberg	Dictyosphaerium ehrenbergianum	antag felstav			
-Dictyosphaerium pulchellum	Mucidosphaerium pulchellum	Exact	Dyntaxa		
-Dilsea carnosa / Palmaria palmata	Dilsea carnosa/Palmaria palmata	antag felstav			
-Dinoflagellate	Dinophyceae	antag felstav			
-Dinophysis rotundata	Phalacroma rotundatum	exact	Worms		
-Diploccirus glaucus	Diplocirrus glaucus	antag felstav			
-Distylis laevis	Diastylis laevis	antag felstav			
-Dolichospermum flos-aquae	Dolichospermum flosaquae	Exact	Dyntaxa		
-Dosinia lincta	Dosinia lupinus	exact	Worms		
-Duasmodactyla commune	Thyonidium drummondi	Exact	Dyntaxa		
-Dulichia monacantha	Dyopedos monacanthus	Exact	Dyntaxa		
-Dulichia porrecta	Dyopedos porrectus	Exact	Dyntaxa		
-Dyopedos monacantha	Dyopedos monacanthus	Exact	Dyntaxa		
-Dyopedus correctus	Dyopedos porrectus	Exact	Dyntaxa		
-Ebalia cranchi	Ebalia cranchii	Exact	Dyntaxa		
-Echinus acutus	Gracilechinus acutus	Exact	Dyntaxa		
-Eclysippe vanelli	Eclysippe eliasoni	Exact	Dyntaxa		
-Ectocarpus siliquosus	Ectocarpus siliculosus	antag felstav			
-Ectoprocta	Bryozoa	antag felstav			
-Edwardsidae	Edwardsiidae	antag felstav			
-Electra crustulenta	Einhornia crustulenta	Exact	Dyntaxa		
-Elminius modestus	Austrominius modestus	exact	Worms		
-enipo kinbergi	Enipo kinbergi				
-Ensis directus	Ensis leei	Exact	Dyntaxa		
-Entalina quinquangularis	Entalina tetragona	Exact	Dyntaxa		
-Entelurus aequoraeus	Entelurus aequoreus	Exact	Dyntaxa		
-Enteromorpha	Ulva	exact	Worms		
-Enteromorpha intestinalis	Ulva intestinalis	Exact	Dyntaxa		
-Epicladia flustrae	Acrochaete flustrae	Exact	Dyntaxa		
-Epitonium clathrum	Epitonium clathrus	Exact	Dyntaxa		
-Ericthonius hunteri	Ericthonius rubricornis	Exact	Dyntaxa		
-Erythrops erythrophthalma	Erythrops erythrophthalmus	Exact	Dyntaxa		
-Erythrops serrata	Erythrops serratus	Exact	Dyntaxa		
-Eteone lactea	Eteone foliosa	Exact	Dyntaxa		
-Euchaeta	Paraeuchaeta	Exact	Dyntaxa		
-Euglena acus	Lepocinclis acus	Exact	Dyntaxa		
-Euglena oxyuris	Lepocinclis oxyuris	Exact	Dyntaxa		
-Eukaryotic picoplankton	Eukaryotic picoplankton species incertae sedis	antag felstav			
-Eumida fusigera	Sige fusigera	Exact	Dyntaxa		
-Eupagurus bernhardus	Pagurus bernhardus	Exact	Dyntaxa		
-Eurycope mutica	Baeonectes muticus	Exact	Dyntaxa		
-Euspira pulchella	Euspira nitida	Exact	Dyntaxa		
-Exogone hebes	Parexogone hebes	Exact	Dyntaxa		
-Fabricia sabella	Fabricia stellaris	Exact	Dyntaxa		
-Fabriciinae	Fabriciidae	Exact	Dyntaxa		
-Fish	Pisces	antag felstav			
-Flabellina pedata	Edmundsella pedata	Exact	Dyntaxa		
-Flabellina verrucosa	Coryphella verrucosa	Exact	Dyntaxa		
-Flagellates	Flagellate	antag felstav			
-Fonatinalis	Fontinalis	antag felstav			
-Fragilaria fasciculata	Tabularia fasciculata	Exact	Dyntaxa		
-Fragilaria gaillonii	Tabularia gaillonii	Exact	Dyntaxa		
-Fragilaria striatula	Grammonema striatulum	OK		263254	
-Fragilaria ulna var. acus	Ulnaria acus	Exact	Dyntaxa		
-Fragilaria ulna var. ulna	Ulnaria ulna var. ulna	antag felstav			
-Fucus vesiculosus/radicans	Fucus radicans/Fucus vesiculosus 	antag felstav			
-Funiculina quadriangularis	Funiculina quadrangularis	Exact	Dyntaxa		
-Gastropoda egg capsule	Gastropoda	antag felstav			
-Gastropoda egg capsules	Gastropoda	antag felstav			
-Gastropoda/Bivalvia	Mollusca	antag felstav			
-Gattyana cirrosa	Gattyana cirrhosa	Exact	Dyntaxa		
-Glaux maritima	Lysimachia maritima	Exact	Dyntaxa		
-Glycera gigantea	Glycera fallax	exact	Worms		
-Glycera rouxi	Glycera unicornis	exact	Worms		
-Glycera rouxii	Glycera unicornis	exact	Worms		
-Glycera rouxii, frgm	Glycera rouxii	antag felstav			
-Gnathia oxyurea	Gnathia oxyuraea	Exact	Dyntaxa		
-Golfingia procera	Thysanocardia procera	Exact	Dyntaxa		
-Golfingia sp	Golfingia 	antag felstav			
-Goniochloris spp	Goniochloris 	antag felstav			
-Gonyaulax catenata	Peridiniella catenata	exact	Worms		
-Gonyaulax digitale	Gonyaulax digitalis	Exact	Dyntaxa		
-Gorgonacea	Alcyonacea	Exact	Dyntaxa		
-Gymnodinium chlorophorum	Lepidodinium chlorophorum	Exact	Dyntaxa		
-Gymnodinium galatheanum	Karlodinium veneficum	exact	Worms		
-Gymnodinium halophilum	Biecheleria halophila	exact	Worms		
-Gymnodinium helveticum	Gyrodinium helveticum	Exact	Dyntaxa		
-Gymnodinium sanguineum	Akashiwo sanguinea	exact	Worms		
-Gymnodinium splendens	Gymnodinium sanguineum	Exact	Dyntaxa		
-Gymnodinium vestificii	Kapelodinium vestifici	phonetic	Worms		
-Gyptis helgolandica	Podarkeopsis helgolandicus	Exact	Dyntaxa		
-Gyptis helgolandica (?)	Gyptis helgolandica	antag felstav			
-Halamphora coffeaeformis	Halamphora coffeiformis	Exact	Dyntaxa		
-Halcampa chrysanthellum	Halcampa duodecimcirrata	Exact	Dyntaxa		
-Haliosiphon tomentosus	Halosiphon tomentosus	antag felstav			
-Haliphron atlanticum	Haliphron atlanticus	Exact	Dyntaxa		
-Haptophyceae	Coccolithophyceae	Exact	Dyntaxa		
-Harmothoe ljungmani	Malmgrenia ljungmani	Exact	Dyntaxa		
-Harmothoe longisetis	Harmothoe glabra	Exact	Dyntaxa		
-Harmothoe nodosa	Eunoe nodosa	exact	Worms		
-Heliocostomella subulata	Helicostomella subulata	antag felstav			
-Helminthocladia vermicularis	Mesogloia vermiculata	Exact	Dyntaxa		
-Hemilamprops cristata	Hemilamprops cristatus	antag felstav			
-Hemilamprops rosea	Hemilamprops roseus	Exact	Dyntaxa		
-Heterocapsa arctica ssp. frigida	Heterocapsa arctica subsp. frigida	Exact	Dyntaxa		
-Heterochaeta costata	Baltidrilus costatus	Exact	Dyntaxa		
-Heterosiphonia japonica	Dasysiphonia japonica	Exact	Dyntaxa		
-Hinia incrassata	Tritia incrassata	Exact	Dyntaxa		
-Hirudinea	Hirudinida	Exact	Dyntaxa		
-Hyale vitrea	Hyala vitrea	antag felstav			
-Hydracarina	Hydrachnidiae	Exact	Dyntaxa		
-Hydrachnidia	Hydrachnidiae	Exact	Dyntaxa		
-Hydrachtinia carnea	Hydractinia carnea	antag felstav			
-Hydractinia carnea	Podocoryna carnea	Exact	Dyntaxa		
-Hydrobia ulvae	Peringia ulvae	Exact	Dyntaxa		
-Hydrobia ventrosa	Ecrobia ventrosa	Exact	Dyntaxa		
-Hydrobia/potamopyrgus	Truncatelloidea	antag felstav			
-Hydroida	Hydroidolina	Exact	Dyntaxa		
-Hydroides norvegicus	Hydroides norvegica	Exact	Dyntaxa		
-Hydromedusae	Hydrozoa	antag felstav			
-Idothea	Idotea	Exact	Dyntaxa		
-Invertebrata	Animalia	Special			
-Isoetes	Isoëtes	Exact	Dyntaxa		
-Isoetes echinospora	Isoëtes echinospora	Exact	Dyntaxa		
-Jassa falcata	Jassa marmorata	OK		243627	
-Katablepharis remigera	Kathablepharis remigera	Exact	Dyntaxa		
-Kathablepharis	Katablepharis	Exact	Dyntaxa		
-Kelliella abyssicola	Kelliella miliaris	OK		249545	
-Keratella cochlearis recurvispina	Keratella cochlearis cochlearis	exact	Worms		
-Keratella cruciformis eichwaldi	Keratella eichwaldi	exact	Worms		
-Keratella crusiformis	Keratella cruciformis	antag felstav			
-Kirchneriella contorta	Raphidocelis danubiana	exact	Worms		
-Kofoidinium velelloides	Kofoidinium velleloides	Exact	Dyntaxa		
-Labidoplax buski	Labidoplax buskii	Exact	Dyntaxa		
-Lagisca elisabethae	Harmothoe impar	exact	Worms		
-Lagisca floccosa propinqua	Harmothoe propinqua	Exact	Dyntaxa		
-Lagisca propinqua	Harmothoe propinqua	Exact	Dyntaxa		
-Lamellibranchia	Bivalvia	OK		4000057	
-Lamellibranchiata	Bivalvia	Exact	Dyntaxa		
-Laminaria saccharina	Saccharina latissima	Exact	Dyntaxa		
-Lamprops fasciata	Lamprops fasciatus	antag felstav			
-Laonome kroeyeri	Laonome kroyeri	Exact	Dyntaxa		
-Leanira tetragona	Neoleanira tetragona	Exact	Dyntaxa		
-Leathesia difformis	Leathesia marina	Exact	Dyntaxa		
-Legaardiella	Leegaardiella	antag felstav			
-Lembos longipes	Autonoe longipes	Exact	Dyntaxa		
-Lemmermannia komarekii	Crucigenia lauterbornii	Exact	Dyntaxa		
-Leptocheirus pilosus	Leptocheirus hirsutimanus	OK		243533	
-Leptodora kindtii	Leptodora kindti	antag felstav			
-Leptognathia brevimanus	Araphura brevimanus	Exact	Dyntaxa		
-Leptognathia filiformis	Araphura filiformis	Exact	Dyntaxa		
-Leucon	Leucon (Leucon)	OK		245434	
-Leucon acutirostris	Leucon (Leucon) acutirostris	Exact	Dyntaxa		
-Leucon nasica	Leucon (Leucon) nasica	Exact	Dyntaxa		
-Leucon pallidus	Leucon (Alytoleucon) pallidus	Exact	Dyntaxa		
-Leucosolenia botryides	Leucosolenia botryoides	Exact	Dyntaxa		
-Leucothoe lilljeborgi	Leucothoe lilljeborgii	Exact	Dyntaxa		
-Levensenia gracilis	Levinsenia gracilis	antag felstav			
-Liljeborgia brevicornis	Liljeborgia pallida	antag felstav			
-Lilljeborgia macronyx	Liljeborgia macronyx	felstav			
-Limea loscombii	Limaria loscombi	Exact	Dyntaxa		
-Limecola balthica	Macoma balthica	Exact	Dyntaxa		
-Lingulodinium polyedrum	Lingulodinium polyedra	Exact	Dyntaxa		
-Lipobranchus jeffreysi	Lipobranchius jeffreysii	antag felstav			
-Lipobranchus jeffreysii	Lipobranchius jeffreysii	Exact	Dyntaxa		
-Lithothamnion / Phymatolithon /Hildenbrandia / Pseudolithoderma	Algae	antag felstav			
-Littorinimorpha (e.g. Rissoa / Peringia)	Littorinimorpha	antag felstav			
-Lophelia pertusa	Desmophyllum pertusum	Exact	Dyntaxa		
-Lora reticulata	Curtitoma trevelliana	Exact	Dyntaxa		
-Lucina borealis	Lucinoma borealis	Exact	Dyntaxa		
-Luidia sarsii	Luidia sarsi	Exact	Dyntaxa		
-Lumbrinereis	Lumbrineris	Exact	Dyntaxa		
-Lumbrinereis fragilis	Scoletoma fragilis	antag felstav			
-Lumbrinereis scopa aequilobata	Lumbrineris scopa aequilobata	antag felstav			
-Lumbrinereis scopa aequilobata	Lumbrineris scopa aequilobata	antag felstav			
-Lumbrinereis scopa aequilobata	Lumbrineris scopa aequilobata	antag felstav			
-Lumbrinereis scopa aequilobata	Lumbrineris scopa aequilobata	antag felstav			
-Lumbrineriidae	Lumbrineridae	Exact	Dyntaxa		
-Lumbrineris fragilis	Scoletoma fragilis	Exact	Dyntaxa		
-Lumbrineris frgm	Lumbrineris 	antag felstav			
-Lumbrineris gracilis	Hilbigneris gracilis	Exact	Dyntaxa		
-Lumbrineris impatiens	Scoletoma impatiens	Exact	Dyntaxa		
-Lumbrineris magnidentata	Scoletoma magnidentata	Exact	Dyntaxa		
-Lumbrineris scopa	Abyssoninoe hibernica	Exact	Dyntaxa		
-Lumbrineris scopa aequilobata	Abyssoninoe hibernica	Exact	Dyntaxa		
-Lumbrineris scopa aquilobata	Lumbrineris scopa aequilobata	antag felstav			
-Lumbrineris tetraura	Scoletoma tetraura	exact	Worms		
-Lymnaea peregra	Peregriana labiata	Exact	Dyntaxa		
-Macoma baltica	Macoma balthica	Exact	Dyntaxa		
-Macoma calcaria	Macoma calcarea	antag felstav			
-Macropipus depurator	Liocarcinus depurator	antag felstav			
-Macropipus dupurator	Liocarcinus depurator	Exact	Dyntaxa		
-Malmgrenia furcosetosa	Pettibonesia furcosetosa	Exact	Dyntaxa		
-Malmgreniella andreapolis	Malmgrenia andreapolis	Exact	Dyntaxa		
-Malmgreniella antilopes	Malmgreniella andreapolis	antag felstav			
-Malmgreniella castanea	Malmgrenia castanea	Exact	Dyntaxa		
-Malmgreniella ljungmani	Malmgrenia ljungmani	Exact	Dyntaxa		
-Malmgreniella lunulata	Malmgrenia lunulata	Exact	Dyntaxa		
-Malmgreniella mcintoshi	Malmgrenia mcintoshi	Exact	Dyntaxa		
-Mangelia brachystoma	Sorgenfreispira brachystoma	Exact	Dyntaxa		
-Mangelia coarctata	Mangelia costata	Exact	Dyntaxa		
-Mangelia nebula	Bela nebula	Exact	Dyntaxa		
-Melanella sinuosa	Melanella polita	exact	Worms		
-Melita dentata	Megamoera dentata	Exact	Dyntaxa		
-Meridion circulare var. circulare	Meridion circulare	Exact	Dyntaxa		
-Merona cornucopia	Merona cornucopiae	antag felstav			
-Mesogloia vermicularis	Mesogloia vermiculata	Exact	Dyntaxa		
-Mesoporus perforatus	Mesoporos perforatus	antag felstav			
-Metazoa	Animalia	Exact	Dyntaxa		
-Microcystis flos-aquae	Microcystis flosaquae	Exact	Dyntaxa		
-Microcystis reinboldii	Aphanocapsa reinboldii	exact	Worms		
-Microphytobentos	Algae	antag felstav			
-Minuspio cirrifera	Prionospio cirrifera	Exact	Dyntaxa		
-Mnemiopsis leidyii	Mnemiopsis leidyi	felstav			
-Modiolarca subpicta	Musculus subpictus	Exact	Dyntaxa		
-Modiolus phaseolinus	Modiolula phaseolina	Exact	Dyntaxa		
-Moera loveni	Maera loveni	antag felstav			
-Moerella pygmaea	Asbjornsenia pygmaea	Exact	Dyntaxa		
-Monia patelliformis	Pododesmus patelliformis	Exact	Dyntaxa		
-Moniporeia affinis	Monoporeia affinis	antag felstav			
-Monoculodes carinatus	Kroyera carinata	Exact	Dyntaxa		
-Monoculodes norvegicus	Deflexilodes norvegicus				
-Monoculodes tenuirostratus	Deflexilodes tenuirostratus	Exact	Dyntaxa		
-Montacuta ferruginosa	Tellimya ferruginosa	Exact	Dyntaxa		
-Montacuta tenella	Tellimya tenella	Exact	Dyntaxa		
-Mouegotia	Mougeotia	antag felstav			
-Mugga wahrbergi	Sosane wahrbergi	Exact	Dyntaxa		
-Munida  rugosa	Munida rugosa	felstav			
-Musculus marmoratus	Musculus subpictus	Exact	Dyntaxa		
-Musculus subpicta	Musculus subpictus	Exact	Dyntaxa		
-Myriochela oculata	Galathowenia oculata	antag felstav			
-Myriochele daniellseni	Myriochele danielsseni	antag felstav			
-Myriochele oculata	Galathowenia oculata	Exact	Dyntaxa		
-Myrtea spinnifera	Myrtea spinifera	antag felstav			
-Mysella bidentata	Kurtiella bidentata	Exact	Dyntaxa		
-Mysidacea	Mysida	Exact	Dyntaxa		
-Mysis relicta s. lat.	Mysis relicta s.lat.	antag felstav			
-Mystacides azureus	Mystacides azurea	Exact	Dyntaxa		
-Nassarius incrassatus	Tritia incrassata	Exact	Dyntaxa		
-Nassarius nitidus	Tritia nitida	exact	Worms		
-Nassarius pygmaeus	Tritia pygmaea	Exact	Dyntaxa		
-Nassarius reticulata	Nassarius nitidus	antag felstav			
-Nassarius reticulatus	Tritia reticulata	exact	Worms		
-Natica alderi	Euspira nitida	Exact	Dyntaxa		
-Natica montagui	Euspira montagui	Exact	Dyntaxa		
-Natica poliana	Euspira nitida	Exact	Dyntaxa		
-Navicula capitata var. capitata	Hippodonta capitata var. capitata	Exact	Dyntaxa		växtplankton
-Navicula lesmonensis	Hippodonta lesmonensis	Exact	Dyntaxa		växtplankton
-Navicula meniscus	Navicula peregrina var. meniscus	OK		6017822	
-Navicula transitans var transitans	Navicula transitans var. transitans	antag felstav			
-Neanthes succinea	Alitta succinea	exact	Worms		
-Neanthes virens	Alitta virens	Exact	Dyntaxa		
-Neglectella solitaria	Oocystis solitaria	antag felstav			
-Nemalion elminthoides	Nemalion multifidum	Exact	Dyntaxa		
-Nemalion helminthoides	Nemalion multifidum	Exact	Dyntaxa		
-Nemata	Nematoda	Exact	Dyntaxa		
-Nemertini	Nemertea	Exact	Dyntaxa		
-Nemertini indet	Nemertea	antag felstav			
-Nephasoma diaphanes diaphanes	Nephasoma (Nephasoma) diaphanes diaphanes	exact	Worms		
-Nephtys hombergi	Nephtys hombergii	antag felstav			
-Nephtys insica	Nephtys incisa	antag felstav			
-Nephtys longesetosa	Nephtys longosetosa	Exact	Dyntaxa		
-Nephtys pulchra	Aglaophamus pulcher	Exact	Dyntaxa		
-Nepthys incisa	Nephtys incisa	antag felstav			
-Nereidae	Nereididae	Exact	Dyntaxa		
-Nereis diversicolor	Hediste diversicolor	Exact	Dyntaxa		
-Nereis elitoralis	Eunereis elitoralis	Exact	Dyntaxa		
-Nereis virens	Alitta virens				
-Neridae	Nereididae	antag felstav			
-Notomastus latericius	Notomastus latericeus	Exact	Dyntaxa		
-Nucula turgida	Nucula nitidosa	Exact	Dyntaxa		
-Nuculoma tenuis	Ennucula tenuis	antag felstav			
-Nymphaea alba ssp. candida	Nymphaea candida	Exact	Dyntaxa		
-Nymphon gracile	Nymphon brevirostre	OK		233568	
-obest.	Biota				
-Oblea complex	Oblea	antag felstav			
-Obrovia neglecta	Hydrobia acuta neglecta	Exact	Dyntaxa		
-###Octactis speculum	Dictyocha speculum	antag felstav			
-Odontella mobiliensis	Trieres mobiliensis	Exact	Dyntaxa		
-Odontella regia	Trieres regia	Exact	Dyntaxa		
-Odostomia eulimoides	Brachystomia eulimoides	Exact	Dyntaxa		
-Oid	Biota	Special			
-Oithona nana	Oithona minuta	Exact	Dyntaxa		
-Onuphis quadricuspis	Paradiopatra quadricuspis	Exact	Dyntaxa		
-Ophelina borealis	Ophelia borealis	antag felstav			
-Ophiodromus flexuosus	Oxydromus flexuosus	Exact	Dyntaxa		
-Ophiotrix	Ophiothrix	antag felstav			
-Ophiura affinis	Ophiocten affinis	Exact	Dyntaxa		
-Ophiura sarsi	Ophiura sarsii	Exact	Dyntaxa		
-Ophiura texturata	Ophiura ophiura	Exact	Dyntaxa		
-Orbinia cuvieri	Orbinia sertulata	phonetic	Worms		
-Orbinia norvegica	Phylo norvegicus	Exact	Dyntaxa		
-Orchomene nana	Tryphosa nana	exact	Worms		
-Orchomenella nana	Tryphosa nana	exact	Worms		
-Other	Biota	Special			
-Other_unicellular_plankton	Biota	Special			
-Others	Biota	Special			
-Oxydromus flexousos	Oxydromus flexuosus	antag felstav			
-Pallasea quadrispinosa	Pallaseopsis quadrispinosa	Exact	Dyntaxa		
-Paludestrina jenkinsi	Potamopyrgus antipodarum	Exact	Dyntaxa		
-Panomya arctica	Panomya norvegica	exact	Worms		
-Paphia aurea	Polititapes aureus	Exact	Dyntaxa		
-Parakiefferiella triquetra	Parakiefferiella smolandica	OK		235906	
-Paramphinome jeffreysii	Paramphinome jeffreysi	antag felstav			
-Paramphinone jeffreysi	Paramphinome jeffreysi	antag felstav			
-Paramphitrite tetrabranchiata	Paramphitrite tetrabranchia	Exact	Dyntaxa		
-Parasagitta elegans elegans	Sagitta elegans elegans	Exact	Dyntaxa		
-Parasagitta setosa	Sagitta setosa	Exact	Dyntaxa		
-Parathemisto abyssorum	Themisto abyssorum	Exact	Dyntaxa		
-Parvicardium minimum	Papillicardium minimum	Exact	Dyntaxa		
-Parvicardium ovale	Parvicardium pinnulatum	Exact	Dyntaxa		
-Pectinaridae	Pectinariidae	Exact	Dyntaxa		
-Pediastrum boryanum var. boryanum	Pseudopediastrum boryanum	exact	Worms		
-Pediastrum duplex var. gracillimum	Lacunastrum gracillimum	exact	Worms		
-Pediastrum kawraiskyi	Pseudopediastrum kawraiskyi	Exact	Dyntaxa		
-Pediastrum privum	Stauridium privum	Exact	Dyntaxa		
-Pediastrum tetras	Stauridium tetras	exact	Worms		
-Peloscolex	Tubificoides	Exact	Dyntaxa		
-Pennales	Bacillariophyceae	Exact	Dyntaxa		
-Pennatula phosporea	Pennatula phosphorea	antag felstav			
-Peridiniella catenat	Peridiniella catenata	antag felstav			
-Peridiniopsis penardiforme	Peridiniopsis penardiformis	Exact	Dyntaxa		
-Peridinium achromaticum	Protoperidinium achromaticum	antag felstav			
-Peridinium inconspicuum	Parvodinium inconspicuum	Exact	Dyntaxa		
-Peridinium quinquecorne	Peridinium quadridentatum	Exact	Dyntaxa		
-Peridinium umbonatum	Parvodinium umbonatum	Exact	Dyntaxa		
-Phacus pyrum	Monomorphina pyrum	Exact	Dyntaxa		
-Phaeophyceae/Rhodophyta	Algae	antag felstav			
-Phalachroma rotundatum	Phalacroma rotundatum	antag felstav			
-Phascolion strombi	Phascolion strombus	Exact	Dyntaxa		
-Phaxas pellucida	Phaxas pellucidus	Exact	Dyntaxa		
-Pherusa falcata	Lamispina falcata				
-Philbertia	Raphitoma	exact	Worms		
-Philbertia linearis	Raphitoma linearis	Exact	Dyntaxa		
-Philine aperta	Philine quadripartita	Exact	Dyntaxa		
-Philine scabra	Hermania scabra	Exact	Dyntaxa		
-Philomedes globosus	Philomedes brenda	Exact	Dyntaxa		
-Phoca hispida	Pusa hispida	Exact	Dyntaxa		
-Phoronis mulleri	Phoronis muelleri	antag felstav			
-Phoxocephalus holboelli	Phoxocephalus holbolli	antag felstav			
-Phyllodoce	Polyodontes	OK		1007451	
-Phylo kupferi	Phylo kupfferi	Exact	Dyntaxa		
-Phylo norvegica	Phylo norvegicus	Exact	Dyntaxa		
-Pilayella littoralis	Pylaiella littoralis	Exact	Dyntaxa		
-Pisida longicornis	Pisidia longicornis	antag felstav			
-Pisidiidae	Sphaeriidae	Exact	Dyntaxa		
-Pistella lornensis	Pista lornensis	Exact	Dyntaxa		
-Planctonema lauterbornii	Binuclearia lauterbornii	Exact	Dyntaxa		
-Planktolyngbya subtilis	Planktolyngbya limnetica	Exact	Dyntaxa		
-Planorbis corneus	Planorbarius corneus	Exact	Dyntaxa		
-Platyhelmintes	Platyhelminthes	antag felstav			
-Pleopis polyphaemoides	Podon polyphemoides	antag felstav			
-Pleopsis polyphemoides	Podon polyphemoides	Exact	Dyntaxa		
-Pleurochrysis carterae	Chrysotila carterae	Exact	Dyntaxa		
-Podarkeopsis helgolandica	Podarkeopsis helgolandicus	antag felstav			
-Podoceropsis nitida	Gammaropsis nitida	Exact	Dyntaxa		
-Podon leuckarti	Podon leuckartii	Exact	Dyntaxa		
-Podon leukartii	Podon leuckartii	antag felstav			
-Polinices montagui	Euspira montagui	Exact	Dyntaxa		
-Polinices pulchella	Euspira nitida	Exact	Dyntaxa		
-Polinices pulchellus	Euspira nitida	Exact	Dyntaxa		
-Polybius holsatus	Liocarcinus holsatus	Exact	Dyntaxa		
-Polydora caeca	Dipolydora coeca	Exact	Dyntaxa		
-Polydora caulleryi	Dipolydora caulleryi	Exact	Dyntaxa		
-Polydora cliata	Polydora ciliata	antag felstav			
-Polydora coeca	Dipolydora coeca	Exact	Dyntaxa		
-Polydora flava	Dipolydora flava	Exact	Dyntaxa		
-Polydora quadrilobata	Dipolydora quadrilobata	Exact	Dyntaxa		
-Polydora sp (cf ciliata)	Polydora	antag felstav			
-Polyides rotundus	Polyides rotunda	antag felstav			
-Polykrikos schwarzii	Polykrikos kofoidii	Exact	Dyntaxa		
-Polynoe kinbergi	Enipo kinbergi	Exact	Dyntaxa		
-Polysiphonia brodiaei	Polysiphonia brodiei	Exact	Dyntaxa		
-Polysiphonia/Ceramium	Rhodymeniophycidae	antag felstav			
-Pomatoceros triqueter	Spirobranchus triqueter	Exact	Dyntaxa		
-Pompholyx	Scleroderma	OK		1001311	
-Pontoporeia affinis	Monoporeia affinis	Exact	Dyntaxa		
-Potamogeton filiformis	Stuckenia filiformis	Exact	Dyntaxa		
-Potamogeton gramineus x perfoliatus	Potamogeton gramineus × perfoliatus	Exact	Dyntaxa		
-Potamogeton gramineus x perfoliatus	Potamogeton gramineus × perfoliatus	felstav			
-Potamogeton pectinatus	Stuckenia pectinata	Exact	Dyntaxa		
-Potamogeton vaginatus	Stuckenia vaginata	Exact	Dyntaxa		
-Potamopygrus antipodarum	Potamopyrgus antipodarum	antag felstav			
-Potamopyrgus antopodarum	Potamopyrgus antipodarum	antag felstav			
-Potamopyrgus jenkinsi	Potamopyrgus antipodarum	Exact	Dyntaxa		
-Prasinophyceae	Pyramimonadophyceae	Exact	Dyntaxa		
-Prasinophyceae (Micromonadophyceae)	Prasinophyceae	antag felstav			
-Praxilella praetermissa	Praxillella praetermissa	antag felstav			
-Prionospia dubia	Prionospio dubia	Exact	Dyntaxa		
-Prionospio banyulensis	Aurospio banyulensis	Exact	Dyntaxa		
-Prionospo banyulensis	Prionospio banyulensis	antag felstav			
-Proboscia alata var. indica	Proboscia	antag felstav			
-Proclea graffi	Proclea graffii	antag felstav			
-Proclea graffiii	Proclea graffii	antag felstav			
-Prorocentrum minimum	Prorocentrum cordatum	Exact	Dyntaxa		
-Prostoma obscurum	Cyanophthalma obscura	Exact	Dyntaxa		
-Prostomes	Prostomatea	antag felstav			
-Proterythropsis vigilans	Nematopsides vigilans	exact	Worms		
-Protoctista	Biota	Special			
-Protodinium simplex	Gymnodinium simplex	antag felstav			
-Protomedia fasciata	Protomedeia fasciata	antag felstav			
-Protoperidinium marielebourae	Protoperidinium marielebouriae	Exact	Dyntaxa		
-Protoperidinium minutum	Archaeperidinium minutum	Exact	Dyntaxa		
-Protoperidinium quinquecorne	Peridinium quadridentatum	Exact	Dyntaxa		
-Prymnesiophyceae	Coccolithophyceae	Exact	Dyntaxa		
-Psetta maxima	Scophthalmus maximus	Exact	Dyntaxa		
-Pseudamussium septemradiatum	Pseudamussium peslutrae	Exact	Dyntaxa		
-Pseudeulalia exigua	Protomystides exigua	Exact	Dyntaxa		
-Pseudione callanassae	Pseudione callianassae	antag felstav			
-Pseudobodo	Pseudobobo	Exact	Dyntaxa		
-Pseudobodo tremulans	Pseudobobo tremulans	Exact	Dyntaxa		
-Pseudocalanus minutus elongatus	Pseudocalanus elongatus	exact	Worms		
-Pseudocuma gilsoni	Monopseudocuma gilsoni	Exact	Dyntaxa		
-Pseudopedinella pyriforme	Pseudopedinella pyriformis	Exact	Dyntaxa		
-Psolus panthapus	Psolus phantapus	antag felstav			
-Pusillina sarsi	Pusillina sarsii	Exact	Dyntaxa		
-Pylaiella littoralis/Ectocarpus	Ectocarpus/Pylaiella	antag felstav			
-Pyramimona	Pyramimonas	antag felstav			
-Pyrophacus horologicum	Pyrophacus horologium	Exact	Dyntaxa		
-Pyura tesselata	Pyura tessellata	Exact	Dyntaxa		
-Radiospermum	Radiosperma	Exact	Dyntaxa		
-Radix balthica	Ampullaceana balthica	Exact	Dyntaxa		
-Radix labiata	Peregriana labiata	Exact	Dyntaxa		
-Radix ovata	Ampullaceana balthica	Exact	Dyntaxa		
-Radix peregra	Peregriana labiata	Exact	Dyntaxa		
-Ranunculus peltatus baudotii	Ranunculus peltatus subsp. baudotii	antag felstav			
-Ranunculus peltatus ssp. baudotii	Ranunculus baudotii	Exact	Dyntaxa		
-Ranunculus peltatus ssp. peltatus	Ranunculus peltatus agg.				
-Ranunculus peltatus subsp. Baudoti	Ranunculus baudotii	felstav			
-Ranunculus peltatus subsp. baudotii	Ranunculus baudotii	Exact	Dyntaxa		
-Ranunculus peltatus subsp. Baudotii	Ranunculus baudotii	Exact	Dyntaxa		
-Ranunculus peltatus subsp. peltatus	Ranunculus peltatus agg.				
-Rhizomonas	Solenicola	Exact	Dyntaxa		
-Rhizomonas setigera	Solenicola setigera	Exact	Dyntaxa		
-Rhizosolenia eriensis	Urosolenia eriensis	OK		237463	
-Rhizosolenia longiseta	Urosolenia longiseta	OK		237464	
-Rhizsolenia setigera	Rhizosolenia setigera	antag felstav			
-Rhodophyceae	Rhodophyta	exact	Worms		
-Roxania uhiculus	Roxania utriculus	antag felstav			
-Ruppia cirrhosa	Ruppia spiralis	Exact	Dyntaxa		
-Ruppia/Zannichellia palustris/Stuckenia pectinata	Alismatales	antag felstav			
-Sabella penicillus	Sabella pavonina	Exact	Dyntaxa		
-Sabellides octocirrata	Ampharete octocirrata	Exact	Dyntaxa		
-Sagittaria natans x sagittifolia	Sagittaria natans × sagittifolia	Exact	Dyntaxa		
-Sagittaria natans x sagittifolia	Sagittaria natans × sagittifolia	felstav			
-Saxicavella jeffreysii	Saxicavella jeffreysi	antag felstav			
-Scenedesmus acuminatus	Tetradesmus lagerheimii	Exact	Dyntaxa		
-Scenedesmus arcuatus	Comasiella arcuata	Exact	Dyntaxa		
-Scenedesmus arcuatus var. arcuatus	Comasiella arcuata var. arcuata	Exact	Dyntaxa		
-Scenedesmus dimorphus	Tetradesmus dimorphus	exact	Worms		
-Scenedesmus obliquus	Tetradesmus obliquus	exact	Worms		
-Scenedesmus quadricauda	Desmodesmus communis	OK		6001101	
-Schistomeringos eliasoni	Parougia eliasoni	Exact	Dyntaxa		
-Scionella lornensis	Pista lornensis	Exact	Dyntaxa		
-Scolecithridae	Scolecithricidae	antag felstav			
-scolelepis squamata	Scolelepis squamata	felstav			
-Scrippsiella acuminata	Scrippsiella trochoidea	antag felstav			
-Scuticociliate	Scuticociliatia	antag felstav			
-Scypha	Sycon	exact	Worms		
-Scypha ciliata	Sycon ciliatum	exact	Worms		
-Selenastrum gracile	Messastrum gracile	exact	Worms		
-Siphomnophora	Siphonophorae	antag felstav			
-Siphonocetes coletti	Siphonoecetes kroeyeranus	antag felstav			
-Siphonoecetes colletti	Centraloecetes kroeyeranus				
-Siphonoecetes kroeyeranus	Centraloecetes kroeyeranus	Exact	Dyntaxa		
-Siphonoecetes kroeyeranus	Centraloecetes kroyeranus				
-Siphonophora	Siphonophorae	Exact	Dyntaxa		
-Skorpbildande alger	Rhodophyta	antag felstav			
-Solea Solea	Solea solea	felstav			
-Sosanopsis wireni	Sosane wireni	Exact	Dyntaxa		
-Spathulodinium pseudonoctiluca	Spatulodinium pseudonoctiluca	Exact	Dyntaxa		
-Sphacelaria bipinnata	Sphacelaria cirrosa	Exact	Dyntaxa		
-Sphacelaria caespitula	Sphaceloderma caespitula	Exact	Dyntaxa		
-Sphacelaria plumosa	Chaetopteris plumosa	Exact	Dyntaxa		
-Sphaerodoropsis minuta	Sphaerodoridium minutum	Exact	Dyntaxa		
-Sphaerosyllis tetralix	Prosphaerosyllis tetralix				
-Spiophanes kroyeri	Spiophanes kroeyeri	antag felstav			
-Spiophanes kröyeri	Spiophanes kroeyeri	antag felstav			
-Spirontocaris lilljeborgi	Spirontocaris liljeborgii	Exact	Dyntaxa		
-Spirorbidae	Spirorbinae	Exact	Dyntaxa		
-Staurosira berolinensis	Belonastrum berolinense	Exact	Dyntaxa		
-Stenula rubrovittata	Metopa rubrovittata	Exact	Dyntaxa		
-Stichopus tremulus	Parastichopus tremulus	Exact	Dyntaxa		
-Streblosoma intestinalis	Streblosoma intestinale	Exact	Dyntaxa		
-Streblospio benedicti s.lat.	Streblospio benedicti	exact	Worms		
-Streblospio schrubsoli	Streblospio shrubsolii	antag felstav			
-Strobilidium epacrum	Pelagostrobilidium epacrum	Exact	Dyntaxa		
-Suberites luetkeni	Suberites virgultosus	Exact	Dyntaxa		
-Synchelidium haplocheles	Synchelidium tenuimanum	OK		243791	
-Synedra acus	Ulnaria acus	OK		248618	
-Synedra acus var. acus	Ulnaria acus	Exact	Dyntaxa		
-Synedra acus var. angustissima	Ulnaria delicatissima var. angustissima	Exact	Dyntaxa		
-Synedra berolinensis	Synedra berolinensis var. berolinensis	exact	Worms		
-Synedra ulna var. ulna	Ulnaria ulna	Exact	Dyntaxa		
-Synelmis klatti	Glyphohesione klatti	Exact	Dyntaxa		
-Taranis cirrata	Taranis moerchii	Exact	Dyntaxa		
-Tectura testudinalis	Testudinalia testudinalis	Exact	Dyntaxa		
-Tellina fabula	Fabulina fabula	Exact	Dyntaxa		
-Tellina pygmaea	Asbjornsenia pygmaea	Exact	Dyntaxa		
-Tellina tenuis	Macomangulus tenuis	Exact	Dyntaxa		
-Telonema antarctica	Telonema antarcticum	Exact	Dyntaxa		
-Temora stylifera	Temora	antag felstav			
-Tenellia tergipes	Tergipes tergipes	Exact	Dyntaxa		
-Terebellides stroemi	Terebellides stroemii	Exact	Dyntaxa		
-Tetra?dron caudatum	Tetraedron caudatum	antag felstav			
-Tetraedriella jovetii	Tetraëdriella jovetii	Exact	Dyntaxa		
-Tetraedron caudatum	Tetraëdron caudatum	exact	Worms		
-Tetraedron minimum	Tetraëdron minimum	OK		257945	
-Tetraëdron tetraedron minimum	Tetraëdron minimum	antag felstav			
-Tetraedron triangulare	Tetraëdron triangulare	exact	Worms		
-Tetrastrum staurogeniaeforme	Tetrastrum staurogeniiforme	Exact	Dyntaxa		
-Thalassiosira anguste-lineata	Thalassiosira angustelineata	Exact	Dyntaxa		
-Thalassiosira constricta	Bacterosira constricta	Exact	Dyntaxa		
-Thalassiosira weissflogii	Conticribra weissflogii	Exact	Dyntaxa		
-Tharyx marioni	Aphelochaeta marioni	Exact	Dyntaxa		
-Tharyx mcintoshi	Aphelochaeta mcintoshi	Exact	Dyntaxa		
-Tharyx multibranchis	Aphelochaeta multibranchis	Exact	Dyntaxa		
-Thecosomata	Euthecosomata	OK		6002542	
-Thecosomatida	Euthecosomata	OK		6002542	
-Thracia papyracea	Thracia phaseolina	Exact	Dyntaxa		
-Thyasira equalis	Parathyasira equalis	Exact	Dyntaxa		
-Thyasira eumyaria	Genaxinus eumyarius	Exact	Dyntaxa		
-Thyasira flexuosus	Thyasira flexuosa	antag felstav			
-Thyasira sarsi	Thyasira sarsii	felstav			
-Tintinida	Tintinnidae	antag felstav			
-Tintinidae	Tintinnidae	antag felstav			
-Tintinnina	Tintinnida	Exact	Dyntaxa		
-Tonicella rubra	Boreochiton ruber	Exact	Dyntaxa		
-Trachythyone elongata	Leptopentacta elongata	Exact	Dyntaxa		
-Triglopsis quadricornis	Myoxocephalus quadricornis	Exact	Dyntaxa		
-Tubificidae	Naididae	exact	Worms		
-Tubificoides benedeni	Edukemius benedii	Exact	Dyntaxa		
-Tubularia larynx	Ectopleura larynx	exact	Worms		
-Turbellaria indet	Turbellaria	antag felstav			
-Turbonilla crenata	Pyrgiscus crenatus	Exact	Dyntaxa		
-Turbonilla fulvocincta	Pyrgiscus crenatus	exact	Worms		
-Turitella communis	Turritella communis	antag felstav			
-Typosyllis	Syllis	exact	Worms		
-Typosyllis cornuta	Syllis cornuta	Exact	Dyntaxa		
-Typosyllis variegata	Syllis variegata	Exact	Dyntaxa		
-Ulnaria ulna	Synedra ulna var. subcontracta	exact	Worms		
-Ulnaria ulna var. acus	Ulnaria acus	Exact	Dyntaxa		
-Unicells	Unicell	antag felstav			
-Unicells_and_flagellates	Unicells and flagellates	antag felstav			
-Unidentified zoopl.	Animalia	Special			
-Urochordata	Tunicata	Exact	Dyntaxa		
-Uroglena americana	Uroglenopsis americana	exact	Worms		
-Vanella	Vannella	Exact	Dyntaxa		
-Varicorbula gibba	Corbula gibba	Exact	Dyntaxa		
-Venus fasciata	Clausinella fasciata	Exact	Dyntaxa		
-Venus gallina	Chamelea striatula	Exact	Dyntaxa		
-Venus gallina striatula	Chamelea striatula	antag felstav			
-Verrucophora farcimen	Pseudochattonella farcimen	Exact	Dyntaxa		
-Vertebrata	Animalia	Special			
-Vitreolina philippii	Vitreolina philippi	felstav			
-Westwoodilla acutifrons	Westwoodilla caecula	Exact	Dyntaxa		
-Westwoodilla hyalina	Westwoodilla caecula	Exact	Dyntaxa		
-Woloszynskia halophila	Biecheleria halophila	Exact	Dyntaxa		
-Yoldiella fraterna	Yoldiella nana	exact	Worms		
-yoldiella tenuis	Yoldiella philippiana	Exact	Dyntaxa		
-Yoldiella tenuis	Yoldiella philippiana	Exact	Dyntaxa		
-Zannichellia palustris var. major	Zannichellia major	Exact	Dyntaxa		
-Zannichellia palustris var. repens	Zannichellia palustris var. palustris	Exact	Dyntaxa		
-Zannichellia palustris/Stuckenia pectinata	Potamogetonaceae	antag felstav			
-ostracoda	Ostracoda	felstav			
-lohmanniella	Lohmanniella	felstav			
-Malletia obtusa	Malletia pianii		Dyntaxa		
+taxon_name_from	taxon_name_to	Match_type	taxon_id (if not in DynTaxa)	Note
+218387	Mytilus edulis	antag felstav		
+219603	Ruppia spiralis	dyntaxaid		
+221733	Nymphaea alba agg.			
+221782	Plantago uniflora	dyntaxaid		
+222888	Ranunculus aquatilis agg.			
+222911	Ranunculus peltatus agg.			
+224929	Ranunculus peltatus subsp. peltatus			
+232817	Chaetomorpha linum		251416	
+322829	Cladophora rupestris	felstav		rätt 232829
+1008564	Ulva			Enteromorpha och Ulva sammanslagna i dyntaxa
+1008571	Ulva		1016242	
+2002573	Ctenocladaceae		2002578	
+###Cocconeis placentula	Cocconeis placentula s.lat.	OK	237797	
+###Eukaryotic picoplankton species incertae sedis			99990004	AA filterfunktion
+###Flagellate			99990002	AA filterfunktion
+###Fragilaria capucina	Fragilaria capucina s.lat.	OK	238013	
+###Gomphonema olivaceum	Gomphonema olivaceum s.lat.	Exact		
+###Gymnodinium simplex	Protodinium simplex	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Monoraphidium arcuatum	Ankistrodesmus arcuatus	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Odontella sinensis	Trieres chinensis	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Oocystis solitaria	Neglectella solitaria	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Paraphysomonas	Paraphysomonas s.lat.	Exact		
+###Pectinaria	Pectinaria s.lat.	OK	1007565	
+###Picoplankton			99990005	AA filterfunktion
+###Rhodomonas baltica	Cryptomonas baltica	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Scrippsiella hangoei	Apocalathium malmogiense	antag felstav		automatic dyntaxa translation. Båda accepterade i Dyntaxa Odontella sinensis accepterad i HELCOM PEG
+###Scrippsiella trochoidea	Scrippsiella acuminata	antag felstav		Tills att Dyntaxa är uppdaterat borde denna översättning göras. Men eftersom några stlcl inom Scrippsiella fortfarande ska heta Scrippsiella kommenterades denna ut för att kunna leverera enligt HELCOM PEG 
+###Synedra ulna	Ulnaria ulna s.lat.	OK	262369	
+###test			99990099	AA filterfunktion
+###Unicell			99990001	AA filterfunktion
+###Unicells and flagellates			99990003	AA filterfunktion
+#Ctenophora	Ctenophora (Ctenophora)	OK	249727	Kammanet i dyntaxa har id 5000006 den andra 249727 är en insekt
+Abyssoninoe hibarnica	Abyssoninoe hibernica	antag felstav		
+ACARIDA	Acaridae	felstav		
+Acarina	Acari	Exact		
+Acartia (Acanthacartia) bifilosa	Acartia bifilosa	Exact		
+Acartia (Acanthacartia) tonsa	Acartia tonsa	Exact		
+Acartia (Acartiura) longiremis	Acartia longiremis	Exact		
+Achnanthes longipes	Achnanthes armillaris	Exact		
+Achnanthes taeniata	Pauliella taeniata	OK	237490	
+Acidostoma laticorne	Acidostoma laticornis	felstav		
+Acidostoma nodiferum	Acidostoma obesum	exact		
+Acidostoma obesun	Acidostoma obesum	antag felstav		
+Acmaea	Tectura	Exact		
+Acrosiphonia/Spongomorpha	Ulotrichaceae	antag felstav		
+Acrosiphoniaceae	Ulotrichaceae	exact		
+Actinaria	Actiniaria	felstav		
+actiniaria	Actiniaria	felstav		
+Actiniarida	Actiniaria	Exact		
+Actinocyclus octonarius var, octonarius	Actinocyclus octonarius var. octonarius	antag felstav		
+Actinocylus octonarius	Actinocyclus octonarius	antag felstav		
+Actinoptergyii	Actinopterygii	felstav		
+Actinoptychus octonarius	Actinocyclus octonarius	Exact		
+Acutodesmus acuminatus	Tetradesmus lagerheimii	Exact		
+Acutodesmus obliquus	Tetradesmus obliquus	Exact		
+Aelidioidea	Aeolidioidea	felstav		
+Aglaophamus pulchra	Aglaophamus pulcher	Exact		
+Aglaophamus rubella	Aglaophamus agilis	Exact		
+AGRAYLEA SP.	Agraylea	felstav		
+Algae	Algae			
+Algae avlång	Algae			
+Algae bananform	Algae			
+Algae borst	Algae			
+Algae koloni	Algae	antag felstav		
+Alvania abyssicola	Alvania testae	Exact		
+Alvania beani	Alvania beanii	Exact		
+Alvania semistriata	Crisilla semistriata	antag felstav		
+Amblyops abbreviata	Amblyops abbreviatus	Exact		
+Amblyraja  radiata	Amblyraja radiata	felstav		
+Ampelisca macrocephale	Ampelisca macrocephala	antag felstav		
+Ampharetae lindstroemi	Ampharete lindstroemi	antag felstav		
+Ampharete acutifrons	Ampharete grubei	Exact		
+Ampharetidae frgm	Ampharetidae			
+Amphidinium 20-25	Amphidinium			
+Amphidinium pellucidum	Gymnodinium venator	Exact		
+Amphiprora paludosa	Entomoneis paludosa	Exact		
+Amphiprora paludosa var. paludosa	Entomoneis paludosa var. paludosa	Exact		
+Amphithoe rubricata	Ampithoe rubricata	Exact		
+Amphora coffeaeformis	Halamphora coffeiformis	Exact		
+Amphorella	Spiriamphorella			
+Anabaena circinalis	Dolichospermum sigmoideum	exact		
+Anabaena crassa	Dolichospermum crassum	Exact		
+Anabaena flos-aquae	Dolichospermum flosaquae	Exact		
+Anabaena lemmermannii	Dolichospermum lemmermannii	exact		
+Anabaena macrospora	Dolichospermum macrosporum	Exact		
+Anabaena planctonica	Dolichospermum planctonicum	Exact		
+Anabaena solitaria	Dolichospermum solitarium	Exact		
+Anabaena spiroides	Dolichospermum spiroides	Exact		
+Anaitides	Phyllodoce	Exact		
+Anaitides groenlandica	Phyllodoce groenlandica	Exact		
+Anaitides longipes	Phyllodoce longipes	Exact		
+Anaitides maculata	Phyllodoce maculata	Exact		
+Anaitides mucosa	Phyllodoce mucosa	Exact		
+Anaitides subulifera	Phyllodoce rosea	Exact		
+Angulus tenuis	Macomangulus tenuis	Exact		
+Ansates pellucida	Patella pellucida	Exact		
+Antalis entale	Antalis entalis	antag felstav		
+Anthomedusae	Anthoathecata	Exact		
+APATANIANA SP.	Apataniana	felstav		uppdatera artdatabanken/dyntaxa och ev. whitelist med släkte
+Aphanizomenon flosaquae	Aphanizomenon flos-aquae			
+Aphanizomenon issatschenkoi	Cuspidothrix issatschenkoi	exact		
+Aphanothece bachmannii	Anathece bachmannii	Exact		
+Aphanothece clathrata	Anathece clathrata	Exact		
+Aphanothece minutissima	Anathece minutissima	Exact		
+Aphrodite aculeata	Aphrodita aculeata	antag felstav		
+Apocalathium malmogiense	Scrippsiella hangoei	antag felstav		
+Aporrhais pespelicani	Aporrhais pespelecani	antag felstav		
+Aporrhais pespelicanis	Aporrhais pespelecani	Exact		
+Appendicullaria	Appendicularia	antag felstav		
+Arcturella dilatata	Astacilla dilatata	Exact		
+Aricidea cerutti	Aricidea cerrutii	antag felstav		
+Aricidea jeffreysi	Aricidea cerrutii	Exact		
+Aricidea lyra	Paradoneis lyra	Exact		
+Aricidea suecica	Aricidea (Strelzovia) suecica	exact_subgenus		
+Artacama proboscoidea	Artacama proboscidea	antag felstav		
+Ascidella scabra	Ascidiella scabra	antag felstav		
+Astacilla affinis	Astacilla intermedia	Exact		
+Asterias rubens/Leptasterias muelleri	Asteriidae			
+Asterope norvegica	Prionotoleberis norvegica	exact		
+Astrorhiza arenaria/Pelosina arborescens	Astrorhizidae			
+Athanas nitiscens	Athanas nitescens	antag felstav		
+Athecata	Anthoathecata	Exact		
+ATHRIPSODES SP.	Athripsodes	felstav		
+Atylus swammerdami	Nototropis swammerdami	Exact		
+Atylus vedlomensis	Nototropis vedlomensis	Exact		
+Aulacoseira islandica ssp. helvetica	Aulacoseira islandica subsp. helvetica	Exact		
+Aulacoseira islandica ssp. islandica	Aulacoseira islandica subsp. islandica	Exact		
+Axinella	Phakellia	OK	1005212	
+Axinella infundibuliformis / Phakellia ventilabrum	Axinella infundibuliformis/Phakellia ventilabrum		6020449	Artkomplex
+Axinella infundibuliformis/Phakellia ventilabrum	Axinella infundibuliformis/Phakellia ventilabrum		6020449	Artkomplex
+Balanus improvis	Amphibalanus improvisus	antag felstav		
+Balanus improvisus	Amphibalanus improvisus	exact		
+Balcis devians	Vitreolina philippi sensu Warén	Exact	233612	
+Balcis philippi	Vitreolina philippi sensu Warén	Exact	233612	
+Barrufata resplendens	Barrufeta resplendens	felstav		
+Batrachium baudottii	Ranunculus baudotii		224928	
+Bela brachystoma	Sorgenfreispira brachystoma	Exact		
+Beröe cucumis	Beroe cucumis	Exact		
+Bivalvia (Lamellibranchiata)	Bivalvia	antag felstav		
+Bonnemaisonia hamifera / Spermothamnion repens	Bonnemaisonia hamifera/Spermothamnion repens		235007	Artkomplex
+Bosmina (Eubosmina) coregoni	Bosmina coregoni	Exact		
+Bosmina coregoni longirostris	Bosmina coregoni	antag felstav		
+Bosmina coregoni maritima	Bosmina longispina maritima	Exact		
+Bosmina maritima	Bosmina longispina maritima	Exact		
+Botryllus schlosseri / Botrylloides leachii	Botryllus schlosseri/Botrylloides leachii		6020448	Artkomplex
+Branchistoma	Branchiostoma	Exact		
+Buccinum undatum / Neptunea antiqua	Buccinum undatum/Neptunea antiqua	antag felstav		
+Buccinum undatum / Neptunea antiqua	Buccinum undatum/Neptunea antiqua	felstav	6020450	Artkomplex
+Byblis gaimardi	Byblis gaimardii	Exact		
+Bylgides groenlandica	Bylgides groenlandicus	Exact		
+Calianassa subteranea	Callianassa subterranea	antag felstav		
+Calianassa subterranea	Callianassa subterranea	Exact		
+Calliannassa subteranea	Callianassa subterranea	antag felstav		
+Callophyllis cristata	Euthora cristata	Exact		
+Camptochironomus	Chironomus (Camptochironomus)	Exact		
+Caprellidea	Caprelloidea	exact		
+Cardium echinatum	Acanthocardia echinata	Exact		
+Cardium minimum	Papillicardium minimum	Exact		
+Cardium ovale	Parvicardium pinnulatum	Exact		
+Caulleriella killariensis	Tharyx killariensis	Exact		
+Caulleriella zetlandica	Chaetozone zetlandica	Exact		
+Centrales	Coscinodiscophyceae			
+Cephalochordata (Branchiostoma)	Branchiostoma	antag felstav		
+CERACLEA SP.	Ceraclea	felstav		
+Ceramium rubrum	Ceramium virgatum	Exact		
+Ceramium strictum	Ceramium tenuicorne	Exact		
+Ceramium/Polysiphonia	Ceramiales			
+Ceratium bucephalum	Tripos bucephalus	Exact		
+Ceratium furca	Tripos furca	Exact		växtplankton
+Ceratium fusus	Tripos fusus	Exact		växtplankton
+Ceratium horridum	Tripos horridus	Exact		växtplankton
+Ceratium lineatum	Tripos lineatus	Exact		växtplankton
+Ceratium longipes	Tripos longipes	Exact		växtplankton
+Ceratium macroceros	Tripos macroceros	Exact		växtplankton
+Ceratium minutum	Tripos minutus	Exact		växtplankton
+Ceratium tripos	Tripos muelleri	Exact		växtplankton
+Ceratoneis closterium	Cylindrotheca closterium	Exact		
+CERATOPOGONIDAE	Ceratopogonidae	felstav		
+Cercopagis (Cercopagis) pengoi	Cercopagis pengoi	antag felstav		
+Cerianthus lloydiii	Cerianthus lloydii	antag felstav		
+cf Woronichinia	Woronichinia			cf ska flyttas till QFLAG
+Chaetoceros cf. seiracanthus	Chaetoceros seiracanthus			
+Chaetoceros didymus var. protuberans	Chaetoceros protuberans	Exact		
+Chaetoceros radians	Chaetoceros socialis		353271	
+Chaetoceros socialis f. radians	Chaetoceros socialis		353271	
+Chaetoceros socialis f. socialis	Chaetoceros socialis		353271	
+Chaetoceros throndsenii v. throndseinii	Chaetoceros throndsenii var. throndsenii	antag felstav		
+Chaetoceros throndsenii var, throndseinii	Chaetoceros throndsenii var. throndsenii	antag felstav		
+Chaetoceros throndsenii var. Throndseinii	Chaetoceros throndsenii var. throndsenii	antag felstav		
+Chaetoceros socialis f. socialis	Chaetoceros socialis		353271	
+Chaetocladius	Chaetocladus	phonetic		
+Chaetodermomorpha	Caudofoveata	Exact		
+Chaetogammarus marinus	Echinogammarus marinus	Exact		
+Chaetomorpha melangonium	Chaetomorpha melagonium	antag felstav		
+Chaetopterus frgm	Chaetopterus 	antag felstav		
+Chamelea gallina	Chamelea striatula	Exact		
+CHAOBORIDAE	Chaoboridae	felstav		
+Chaoborus	Chaoborus (Chaoborus)	OK	251641	
+Chattonella verruculosa	Pseudochattonella verruculosa	Exact		
+Cheirocrathus sundevalli	Cheirocratus sundevalli	antag felstav		
+Cheirocrathus sundevalli	Cheirocratus sundevallii	felstav		
+Cheirocratus sundevalli	Cheirocratus sundevallii	Exact		
+Chelidonichthys gurnardus	Eutrigla gurnardus	Exact		
+Chironemidae	Chironomidae	antag felstav		
+CHIRONOMIDAE	Chironomidae	felstav		
+CHIRONOMINAE	Chironominae	felstav		
+CHIRONOMINI	Chironomini	felstav		
+Chlamys septemradiatus	Pseudamussium peslutrae	Exact		
+Chlorococcales	Chlamydomonadales	Exact		
+Chlorophyta FF	Chlorophyta	felstav		
+Choanoflagellidea	Choanoflagellatea	Exact		
+Chorda filum/Halosiphon tomentosus	Phaeophyceae 	antag felstav		
+Chrionomidae	Chironomidae	felstav		
+Chroococcus limneticus	Limnococcus limneticus	Exact		
+Chroococcus microscopicus	Eucapsis microscopica	Exact		
+Chrysochromulina ericina	Haptolina ericina	Exact		
+Chrysochromulina hirta	Haptolina hirta	Exact		
+Chrysochromulina polylepis	Prymnesium polylepis	Exact		
+Chrysoflagellat	Chrysophyceae	antag felstav		
+Cingula semistriata	Crisilla semistriata	Exact		
+Cirratulus filiformis	Aphelochaeta filiformis			
+Cirrophorus eliasoni	Paradoneis eliasoni	Exact		
+Cladophora aegagropila	Aegagropila linnaei	Exact		
+Cladophora/Enteromorpha	Ulvophyceae			
+Clathrus turtonis	Epitonium turtonis	Exact		
+Clavelina lepadiformes	Clavelina lepadiformis	Exact		
+Closterium acutum var.acutum	Closterium acutum var. Acutum	antag felstav		
+Clymenella cincta	Maldane cincta	Exact		
+cnidaria	Cnidaria	felstav		
+Cnidaria/Bryozoa	Animalia	Special		
+COLEOPTERA	Coleoptera	felstav		
+COPEPODA	Copepoda	felstav		
+Corophidae	Corophiidae	Exact		
+Corophium affine	Medicorophium affine	Exact		
+Corophium bonelli	Crassicorophium bonnellii	Exact		
+Corophium bonnellii	Crassicorophium bonnellii	Exact		
+Corophium insidiosum	Monocorophium insidiosum	Exact		
+Corophium lacustre	Apocorophium lacustre	Exact		
+CorycaeuS	Corycaeus	felstav		
+Corycaeus anglicus	Ditrichocorycaeus anglicus	Exact		
+Coryphella lineata	Fjordia lineata	Exact		
+Coscinodiscus commutatus	Coscinodiscopsis commutata	Exact		
+Crangon allmani	Crangon allmanni	Exact		
+Crania anomala	Novocrania anomala	exact		
+Craspedophyceae	Choanoflagellatea	Exact		
+Crassostrea gigas	Magallana gigas	Exact		
+Crucigeniella	Crucigenia	OK	1010745	
+Crucigeniella apiculata	Willea apiculata	Exact		
+Crucigeniella rectangularis	Willea rectangularis	Exact		
+Ctenolabrus rupestri	Ctenolabrus rupestris	felstav		
+Ctenophora			5000006	
+Cucumaria elongata	Leptopentacta elongata	Exact		
+Cultellus pellucidus	Phaxas pellucidus	Exact		
+Cuspidaria abbreviata	Tropidomya abbreviata	exact		
+Cyanodictyon imperfectum	Cyanocatena imperfecta	exact		
+Cyanophtalma obscura	Cyanophthalma obscura	antag felstav		
+Cyanophycae	Cyanophyceae	antag felstav		
+Cyanophyta	Cyanobacteria	Exact		
+Cyanophyta sp	Cyanophyta 	antag felstav		
+Cyclidium claucoma	Cyclidium glaucoma	felstav		lägga till släkte i whitelist
+Cyclotella,	Cyclotella			
+Cymatopleura solea	Cymatopleura solea var. solea	OK	237914	
+Cymbella lanceolata	Cymbella neolanceolata	Exact		
+Cypridina megalops	Skogsbergia megalops	exact		
+CYRNUS SP.	Cyrnus	felstav		
+Decipula tenella	Tellimya tenella	antag felstav		
+Delesseria sanguinea/Apoglossum ruscifolium/Phycodrus rubens	Delesseriaceae			
+Demicryptochironomus	Demicryptochironomus (Demicryptochironomus)	OK	235310	
+Desmodesmus quadricauda	Scenedesmus quadricauda	Exact		
+Desmosoma filipes	Eugerda filipes	exact		
+Diaphana hyalina	Diaphana minuta	Exact		
+Diastylis biplicata	Diastyloides biplicatus	Exact		
+Diastylis luficera	Diastylis lucifera	antag felstav		
+Diastyloides biplicata	Diastyloides biplicatus	Exact		
+Diastyloides serrata	Diastyloides serratus	Exact		
+Diatomophyceae	Bacillariophyta	Exact		
+Dictyocha speculum	Octactis speculum	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+Dictyosphaerium ehrenberg	Dictyosphaerium ehrenbergianum	antag felstav		
+Dictyosphaerium pulchellum	Mucidosphaerium pulchellum	Exact		
+Dilsea carnosa / Palmaria palmata	Dilsea carnosa/Palmaria palmata	felstav	6020441	Artkomplex
+Dinoflagellate	Dinophyceae	antag felstav		
+Dinophysis rotundata	Phalacroma rotundatum	exact		
+Diploccirus glaucus	Diplocirrus glaucus	antag felstav		
+DIPTERA	Diptera	felstav		
+Distylis laevis	Diastylis laevis	antag felstav		
+Dolichopermum	Dolichospermum	felstav		
+Dolichospermum flosaquae	Dolichospermum flos-aquae			
+Donacia sp.	Donacia	felstav		
+Dosinia lincta	Dosinia lupinus	exact		
+Duasmodactyla commune	Thyonidium drummondi	Exact		
+Dulichia monacantha	Dyopedos monacanthus	Exact		
+Dulichia porrecta	Dyopedos porrectus	Exact		
+Dyopedos monacantha	Dyopedos monacanthus	Exact		
+Dyopedus correctus	Dyopedos porrectus	Exact		
+Ebalia cranchi	Ebalia cranchii	Exact		
+Echinus acutus	Gracilechinus acutus	Exact		
+Echinus esculentus/Gracilechinus elegans	Echinidae			
+Eclysippe vanelli	Eclysippe eliasoni	Exact		
+Ectocarpus siliquosus	Ectocarpus siliculosus	antag felstav		
+Ectoprocta	Bryozoa	antag felstav		
+Edwardsidae	Edwardsiidae	antag felstav		
+Electra crustulenta	Einhornia crustulenta	Exact		
+Elminius modestus	Austrominius modestus	exact		
+enipo kinbergi	Enipo kinbergi			
+Ensis directus	Ensis leei	Exact		
+Entalina quinquangularis	Entalina tetragona	Exact		
+Entelurus aequoraeus	Entelurus aequoreus	Exact		
+Enteromorpha	Ulva	exact		
+Enteromorpha intestinalis	Ulva intestinalis	Exact		
+Entomosigma peridinioides	Entomosigma peridiniodes	felstav		
+EPHEMEROPTERA	Ephemeroptera	felstav		
+Epicladia flustrae	Acrochaete flustrae	Exact		
+Epitonium clathrum	Epitonium clathrus	Exact		
+Ericthonius hunteri	Ericthonius rubricornis	Exact		
+Erythrops erythrophthalma	Erythrops erythrophthalmus	Exact		
+Erythrops serrata	Erythrops serratus	Exact		
+Eteone lactea	Eteone foliosa	Exact		
+Euchaeta	Paraeuchaeta	Exact		
+Euglena acus	Lepocinclis acus	Exact		
+Euglena oxyuris	Lepocinclis oxyuris	Exact		
+Eukaryotic picoplankton	Eukaryotic picoplankton species incertae sedis	antag felstav		
+Eumida fusigera	Sige fusigera	Exact		
+Eupagurus bernhardus	Pagurus bernhardus	Exact		
+Eupodiscales	Triceratiales			
+Eurycope mutica	Baeonectes muticus	Exact		
+Euspira pulchella	Euspira nitida	Exact		
+Exogone hebes	Parexogone hebes	Exact		
+Fabricia sabella	Fabricia stellaris	Exact		
+Fabriciinae	Fabriciidae	Exact		
+Filamentous fine	Biota			
+Fish	Pisces		6000995	
+Flabellina pedata	Edmundsella pedata	Exact		
+Flabellina verrucosa	Coryphella verrucosa	Exact		
+Flagellates	Flagellate	antag felstav		
+Flagellates species incertae sedis	Flagellates			
+Fonatinalis	Fontinalis	antag felstav		
+Fragilaria fasciculata	Tabularia fasciculata	Exact		
+Fragilaria gaillonii	Tabularia gaillonii	Exact		
+Fragilaria striatula	Grammonema striatulum	OK	263254	
+Fragilaria ulna var. acus	Ulnaria acus	Exact		
+Fragilaria ulna var. ulna	Ulnaria ulna var. ulna	antag felstav		
+Fucus vesiculosus/radicans	Fucus radicans/Fucus vesiculosus		6020447	Artkomplex
+Funiculina quadriangularis	Funiculina quadrangularis	Exact		
+GAMMARUS SP.	Gammarus	felstav		
+Gastropoda egg capsule	Gastropoda	antag felstav		
+Gastropoda egg capsules	Gastropoda	antag felstav		
+Gastropoda/Bivalvia	Mollusca	antag felstav		
+Gattyana cirrosa	Gattyana cirrhosa	Exact		
+Glaux maritima	Lysimachia maritima	Exact		
+Glycera gigantea	Glycera fallax	exact		
+Glycera rouxi	Glycera unicornis	exact		
+Glycera rouxii	Glycera unicornis	exact		
+Glycera rouxii, frgm	Glycera rouxii	antag felstav		
+Gnathia oxyurea	Gnathia oxyuraea	Exact		
+Golfingia procera	Thysanocardia procera	Exact		
+Golfingia sp	Golfingia 	antag felstav		
+Gomphonema olivaceum	Gomphonella olivacea		248641	"Finns i Worms med synonymen ""Echinella olivacea"", som i sin tur finns i Dyntaxa som ""Gomphonella olivacea"". ""Gomphonema olivaceum"" finns i Dyntaxa som ""Gomphonema olivaceum s.lat."" och har blivit splitad till flera arter. "
+Gomphonema olivaceum v. olivaceum	Gomphonema olivaceum var. olivaceum			
+Goniochloris spp	Goniochloris 	antag felstav		
+Gonyaulax catenata	Peridiniella catenata	exact		
+Gonyaulax digitale	Gonyaulax digitalis	Exact		
+Gorgonacea	Alcyonacea	Exact		
+Gymnodinium chlorophorum	Lepidodinium chlorophorum	Exact		
+Gymnodinium galatheanum	Karlodinium veneficum	exact		
+Gymnodinium halophilum	Biecheleria halophila	exact		
+Gymnodinium helveticum	Gyrodinium helveticum	Exact		
+Gymnodinium sanguineum	Akashiwo sanguinea	exact		
+Gymnodinium splendens	Gymnodinium sanguineum	Exact		
+Gymnodinium vestificii	Kapelodinium vestifici	phonetic		
+Gyptis helgolandica	Podarkeopsis helgolandicus	Exact		
+Gyptis helgolandica (?)	Gyptis helgolandica	antag felstav		
+Gyptis rosea	Neogyptis rosea			
+Gyrodinium sp.	Gyrodinium	felstav		
+HALACARIDAE	Halacaridae	felstav		
+Halamphora coffeaeformis	Halamphora coffeiformis	Exact		
+Halcampa chrysanthellum	Halcampa duodecimcirrata	Exact		
+Haliosiphon tomentosus	Halosiphon tomentosus	antag felstav		
+Haliphron atlanticum	Haliphron atlanticus	Exact		
+Haliplus sp.	Haliplus	felstav		
+Haptophyceae	Coccolithophyceae	Exact		
+Harmothoe ljungmani	Malmgrenia ljungmani	Exact		
+Harmothoe longisetis	Harmothoe glabra	Exact		
+Harmothoe nodosa	Eunoe nodosa	exact		
+Helgicirrha schulzei	Helgicirrha cari			
+Heliocostomella subulata	Helicostomella subulata	antag felstav		
+Helminthocladia vermicularis	Mesogloia vermiculata	Exact		
+Hemilamprops cristata	Hemilamprops cristatus	antag felstav		
+Hemilamprops rosea	Hemilamprops roseus	Exact		
+Heterocapsa arctica ssp. frigida	Heterocapsa arctica subsp. frigida	Exact		
+Heterocapsa triquerta	Heterocapsa triquetra			
+Heterochaeta costata	Baltidrilus costatus	Exact		
+Heterosiphonia japonica	Dasysiphonia japonica	Exact		
+Hinia incrassata	Tritia incrassata	Exact		
+Hippoglossoides platessoides/Limanda limanda	Pleuronectidae			
+Hirudinea	Hirudinida	Exact		
+holophrya	Holophrya	felstav		
+Holothuriodea	Holothuroidea	felstav		
+Hyale vitrea	Hyala vitrea	antag felstav		
+Hydracarina	Hydrachnidiae	Exact		
+Hydrachnidia	Hydrachnidiae	Exact		
+Hydrachtinia carnea	Podocoryna carnea			
+Hydractinia carnea	Podocoryna carnea	Exact		
+HYDROBIA SP.	Hydrobia	felstav		
+Hydrobia ulvae	Peringia ulvae	Exact		
+Hydrobia ventrosa	Ecrobia ventrosa	Exact		
+Hydrobia/potamopyrgus	Truncatelloidea	antag felstav		
+HYDROBIIDAE	Hydrobiidae	felstav		
+Hydrobiidae/Tateidae	Truncatelloidea			
+Hydroida	Hydroidolina	Exact		
+Hydroider1	Hydrozoa	felstav		
+Hydroider2	Hydrozoa	felstav		
+Hydroides norvegicus	Hydroides norvegica	Exact		
+Hydromedusae	Hydrozoa	antag felstav		
+HYDROPTILA SP.	Hydroptila	felstav		
+HYDROPTILIDAE	Hydroptilidae	felstav		
+Hydrozoa/Bryozoa	Animalia			
+Hyperidae	Hyperiidae	felstav		
+Idotea baltica	Idotea balthica	felstav		
+IDOTEA SP.	Idotea	felstav		
+Idothea	Idotea	Exact		
+INSECTA	Insecta	felstav		
+Invertebrata	Animalia	Special		
+Isoetes	Isoëtes	Exact		
+Isoetes echinospora	Isoëtes echinospora	Exact		
+JAERA SP.	Jaera	felstav		
+Jassa falcata	Jassa marmorata	OK	243627	
+Katablepharis remigera	Kathablepharis remigera	Exact		
+Kathablepharis	Katablepharis	Exact		
+Kelliella abyssicola	Kelliella miliaris	OK	249545	
+Keratella cochlearis recurvispina	Keratella cochlearis cochlearis	exact		
+Keratella cruciformis eichwaldi	Keratella eichwaldi	exact		
+Keratella crusiformis	Keratella cruciformis	antag felstav		
+Keratella quadrata platei	Keratella quadrata			
+Kirchneriella contorta	Raphidocelis danubiana	exact		
+Kofoidinium velelloides	Kofoidinium velleloides	Exact		
+Labidoplax buski	Labidoplax buskii	Exact		
+Lagisca elisabethae	Harmothoe impar	exact		
+Lagisca extenuata	Harmothoe extenuata			
+Lagisca floccosa propinqua	Harmothoe propinqua	Exact		
+Lagisca propinqua	Harmothoe propinqua	Exact		
+Lamellibranchia	Bivalvia	OK	4000057	
+Lamellibranchiata	Bivalvia	Exact		
+Laminaria saccharina	Saccharina latissima	Exact		
+Lamprops fasciata	Lamprops fasciatus	antag felstav		
+Laonome kroeyeri	Laonome kroyeri	Exact		
+Leanira tetragona	Neoleanira tetragona	Exact		
+Leathesia difformis	Leathesia marina	Exact		
+Legaardiella	Leegaardiella	antag felstav		
+Lembos longipes	Autonoe longipes	Exact		
+Lemmermannia komarekii	Crucigenia lauterbornii	Exact		
+LEPIDOPTERA	Lepidoptera	felstav		
+LEPTOCERIDAE	Leptoceridae	felstav		
+Leptocheirus pilosus	Leptocheirus hirsutimanus	OK	243533	
+Leptodora kindtii	Leptodora kindti	antag felstav		
+Leptognathia brevimanus	Araphura brevimanus	Exact		
+Leptognathia filiformis	Araphura filiformis	Exact		
+Leucon	Leucon (Leucon)	OK	245434	
+Leucon acutirostris	Leucon (Leucon) acutirostris	Exact		
+Leucon nasica	Leucon (Leucon) nasica	Exact		
+Leucon pallidus	Leucon (Alytoleucon) pallidus	Exact		
+Leucosolenia botryides	Leucosolenia botryoides	Exact		
+Leucothoe lilljeborgi	Leucothoe lilljeborgii	Exact		
+Levensenia gracilis	Levinsenia gracilis	antag felstav		
+Liljeborgia brevicornis	Liljeborgia pallida	antag felstav		
+Lilljeborgia macronyx	Liljeborgia macronyx	felstav		
+LIMAPONTIA SP.	Limapontia	felstav		
+Limea loscombii	Limaria loscombi	Exact		
+Limecola balthica	Macoma balthica	Exact		
+LIMNEPHILIDAE	Limnephilidae	felstav		
+LIMNEPHILUS SP.	Limnephilus	felstav		
+Lingulodinium polyedrum	Lingulodinium polyedra	Exact		
+Liocarcinus /Polybius	Polybiidae			
+Liocarcinus/Polybius	Polybiidae			
+Lipobranchus jeffreysi	Lipobranchius jeffreysii	antag felstav		
+Lipobranchus jeffreysii	Lipobranchius jeffreysii	Exact		
+Lithothamnion / Phymatolithon /Hildenbrandia / Pseudolithoderma	Algae	antag felstav		
+Lithothamnion / Phymatolithon /Hildenbrandia / Pseudolithoderma	Lithothamnion/Phymatolithon/Hildenbrandia/Pseudolithoderma			
+Littorinimorpha (e.g. Rissoa / Peringia)	Littorinimorpha	antag felstav		
+lohmanniella	Lohmanniella	felstav		
+Lophelia pertusa	Desmophyllum pertusum	Exact		
+Lora reticulata	Curtitoma trevelliana	Exact		
+Lucina borealis	Lucinoma borealis	Exact		
+Luidia sarsii	Luidia sarsi	Exact		
+Lumbrinereis	Lumbrineris	Exact		
+Lumbrinereis fragilis	Scoletoma fragilis	antag felstav		
+Lumbrinereis scopa aequilobata	Abyssoninoe hibernica			
+Lumbrineriidae	Lumbrineridae	Exact		
+Lumbrineris fragilis	Scoletoma fragilis	Exact		
+Lumbrineris frgm	Lumbrineris 	antag felstav		
+Lumbrineris gracilis	Hilbigneris gracilis	Exact		
+Lumbrineris impatiens	Scoletoma impatiens	Exact		
+Lumbrineris magnidentata	Scoletoma magnidentata	Exact		
+Lumbrineris scopa	Abyssoninoe hibernica	Exact		
+Lumbrineris scopa aequilobata	Abyssoninoe hibernica	Exact		
+Lumbrineris scopa aquilobata	Lumbrineris scopa aequilobata	antag felstav		
+Lumbrineris tetraura	Scoletoma tetraura	exact		
+Lymnaea peregra	Peregriana labiata	Exact		
+Macoma baltica	Macoma balthica	Exact		
+Macoma calcaria	Macoma calcarea	antag felstav		
+Macropipus depurator	Liocarcinus depurator	antag felstav		
+Macropipus dupurator	Liocarcinus depurator	Exact		
+Malletia obtusa	Malletia pianii			
+Mallomonas ploesslii	Mallomonas acaroides			Mallomonas ploesslii accepterad i worms, har synonym Mallomonas acaroides som är accepterad i dyntaxa
+Malmgrenia furcosetosa	Pettibonesia furcosetosa	Exact		
+Malmgreniella andreapolis	Malmgrenia andreapolis	Exact		
+Malmgreniella antilopes	Malmgreniella andreapolis	antag felstav		
+Malmgreniella castanea	Malmgrenia castanea	Exact		
+Malmgreniella ljungmani	Malmgrenia ljungmani	Exact		
+Malmgreniella lunulata	Malmgrenia lunulata	Exact		
+Malmgreniella mcintoshi	Malmgrenia mcintoshi	Exact		
+Mangelia brachystoma	Sorgenfreispira brachystoma	Exact		
+Mangelia coarctata	Mangelia costata	Exact		
+Mangelia nebula	Bela nebula	Exact		
+Marenzelleria sp.	Marenzelleria	felstav		
+MARENZELLERIA SPP	Marenzelleria	felstav		
+Melanella sinuosa	Melanella polita	exact		
+Melita dentata	Megamoera dentata	Exact		
+Meridion circulare var. circulare	Meridion circulare	Exact		
+Merona cornucopia	Merona cornucopiae	antag felstav		
+mesodinium	Mesodinium	felstav		
+Mesogloia vermicularis	Mesogloia vermiculata	Exact		
+Mesoporus perforatus	Mesoporos perforatus	antag felstav		
+Metazoa	Animalia	Exact		
+Michteimysis mixta	Mysis mixta			
+Microcystis flos-aquae	Microcystis flosaquae	Exact		
+Microcystis reinboldii	Aphanocapsa reinboldii	exact		
+Microphytobentos	Algae	antag felstav		
+Minuspio cirrifera	Prionospio cirrifera	Exact		
+Mnemiopsis leidyii	Mnemiopsis leidyi	felstav		
+Modiolarca subpicta	Musculus subpictus	Exact		
+Modiolus phaseolinus	Modiolula phaseolina	Exact		
+Moera loveni	Maera loveni	antag felstav		
+Moerella pygmaea	Asbjornsenia pygmaea	Exact		
+Monia (patelliformis/squama)	Monia			
+Monia (patelliformis/squama)/Novocrania anomala	Animalia			
+Monia patelliformis	Pododesmus patelliformis	Exact		
+Monia/Novocrania anomala	Animalia			
+Moniporeia affinis	Monoporeia affinis	antag felstav		
+Monoculodes carinatus	Kroyera carinata	Exact		
+Monoculodes norvegicus	Deflexilodes norvegicus			
+Monoculodes tenuirostratus	Deflexilodes tenuirostratus	Exact		
+Montacuta ferruginosa	Tellimya ferruginosa	Exact		
+Montacuta tenella	Tellimya tenella	Exact		
+Mouegotia	Mougeotia	antag felstav		
+Mougotia	Mougeotia	Felstav		
+Mugga wahrbergi	Sosane wahrbergi	Exact		
+Munida  rugosa	Munida rugosa	felstav		
+Munida rugosa/Munida sarsi	Munida			
+Musculus marmoratus	Musculus subpictus	Exact		
+Musculus subpicta	Musculus subpictus	Exact		
+Myriochela oculata	Galathowenia oculata	antag felstav		
+Myriochele daniellseni	Myriochele danielsseni	antag felstav		
+Myriochele oculata	Galathowenia oculata	Exact		
+Myrtea spinnifera	Myrtea spinifera	antag felstav		
+Mysella bidentata	Kurtiella bidentata	Exact		
+Mysidacea	Mysida	Exact		
+MYSIDAE	Mysidae	felstav		
+Mysis relicta s. lat.	Mysis relicta s.lat.	antag felstav		
+Mystacides azureus	Mystacides azurea	Exact		
+MYSTACIDES SP.	Mystacides	felstav		
+Nassarius incrassatus	Tritia incrassata	Exact		
+Nassarius nitidus	Tritia nitida	exact		
+Nassarius pygmaeus	Tritia pygmaea	Exact		
+Nassarius reticulata	Nassarius nitidus	antag felstav		
+Nassarius reticulatus	Tritia reticulata	exact		
+Natica alderi	Euspira nitida	Exact		
+Natica montagui	Euspira montagui	Exact		
+Natica poliana	Euspira nitida	Exact		
+Navicula capitata var. capitata	Hippodonta capitata var. capitata	Exact		växtplankton
+Navicula lesmonensis	Hippodonta lesmonensis	Exact		växtplankton
+Navicula meniscus	Navicula peregrina var. meniscus	OK	6017822	
+Navicula transitans var transitans	Navicula transitans var. transitans	antag felstav		
+Neanthes succinea	Alitta succinea	exact		
+Neanthes virens	Alitta virens	Exact		
+Nemalion elminthoides	Nemalion multifidum	Exact		
+Nemalion helminthoides	Nemalion multifidum	Exact		
+Nemata	Nematoda	Exact		
+NEMATODA	Nematoda	felstav		
+Nemertesia spp.	Nemertesia	felstav		
+Nemertini	Nemertea	Exact		
+NEMERTINI	Nemertea	felstav		
+Nemertini indet	Nemertea	antag felstav		
+Nephasoma diaphanes diaphanes	Nephasoma (Nephasoma) diaphanes diaphanes	exact		
+Nephasoma diaphanes diaphanes	Nephasoma diaphanes			
+Nephtys hombergi	Nephtys hombergii	antag felstav		
+Nephtys insica	Nephtys incisa	antag felstav		
+Nephtys longesetosa	Nephtys longosetosa	Exact		
+Nephtys pulchra	Aglaophamus pulcher	Exact		
+Nepthys incisa	Nephtys incisa	antag felstav		
+Nereidae	Nereididae	Exact		
+Nereis diversicolor	Hediste diversicolor	Exact		
+Nereis elitoralis	Eunereis elitoralis	Exact		
+Nereis virens	Alitta virens			
+Neridae	Nereididae	antag felstav		
+Notomastus latericius	Notomastus latericeus	Exact		
+Nucula turgida	Nucula nitidosa	Exact		
+Nuculoma tenuis	Ennucula tenuis	antag felstav		
+NUDIBRANCHIA	Nudibranchia	felstav		
+Nymphaea alba ssp. candida	Nymphaea candida	Exact		
+Nymphon gracile	Nymphon brevirostre	OK	233568	
+obest.	Biota			
+Oblea complex	Oblea	antag felstav		
+Obrovia neglecta	Hydrobia acuta neglecta	Exact		
+Odontella mobiliensis	Trieres mobiliensis	Exact		
+Odontella regia	Trieres regia	Exact		
+Odostomia eulimoides	Brachystomia eulimoides	Exact		
+OECETIS SP.	Oecetis			
+Oid	Biota	Special		
+Oidentifierat taxa	Biota			
+Oithona nana	Oithona minuta	Exact		
+Oligochaeta	Oligochaeta		3000107	
+Onuphis quadricuspis	Paradiopatra quadricuspis	Exact		
+Ophelina borealis	Ophelia borealis	antag felstav		
+Ophiodromus flexuosus	Oxydromus flexuosus	Exact		
+Ophiopholis aculeata/Ophiothrix fragilis	Ophiurina			
+Ophiothrix fragilis/Ophiocomina nigra	Ophiurina			
+Ophiotrix	Ophiothrix	antag felstav		
+Ophiotrix fragilis/Ophiocomina nigra	Ophiurina	felstav		
+Ophiura affinis	Ophiocten affinis	Exact		
+Ophiura sarsi	Ophiura sarsii	Exact		
+Ophiura texturata	Ophiura ophiura	Exact		
+Orbinia cuvieri	Orbinia sertulata	phonetic		
+Orbinia norvegica	Phylo norvegicus	Exact		
+Orchomene nana	Tryphosa nana	exact		
+Orchomenella nana	Tryphosa nana	exact		
+ORTHOCLADIINAE	Orthocladiinae	felstav		
+ostracoda	Ostracoda	felstav		
+OSTRACODA	Ostracoda	felstav		
+Other	Biota	Special		
+Other_unicellular_plankton	Biota	Special		
+Others	Biota	Special		
+Oxydromus flexousos	Oxydromus flexuosus	antag felstav		
+Pallasea quadrispinosa	Pallaseopsis quadrispinosa	Exact		
+Paludestrina jenkinsi	Potamopyrgus antipodarum	Exact		
+Panomya arctica	Panomya norvegica	exact		
+Paphia aurea	Polititapes aureus	Exact		
+Parakiefferiella triquetra	Parakiefferiella smolandica	OK	235906	
+Paramphinome jeffreysii	Paramphinome jeffreysii	antag felstav		
+Paramphinone jeffreysi	Paramphinome jeffreysii	antag felstav		
+Paramphinone jeffreysi	Paramphinome jeffreysii			
+Paramphitrite tetrabranchiata	Paramphitrite tetrabranchia	Exact		
+Paraonis	Cirrophorus			
+Paraonis lyra	Paradoneis lyra	felstav		
+Parasagitta elegans elegans	Sagitta elegans elegans	Exact		
+Parasagitta setosa	Sagitta setosa	Exact		
+Parathemisto abyssorum	Themisto abyssorum	Exact		
+Parvicardium minimum	Papillicardium minimum	Exact		
+Parvicardium ovale	Parvicardium pinnulatum	Exact		
+Pectinaridae	Pectinariidae	Exact		
+Pediastrum boryanum var. boryanum	Pseudopediastrum boryanum	exact		
+Pediastrum duplex var. gracillimum	Lacunastrum gracillimum	exact		
+Pediastrum kawraiskyi	Pseudopediastrum kawraiskyi	Exact		
+Pediastrum privum	Stauridium privum	Exact		
+Pediastrum tetras	Stauridium tetras	exact		
+Peloscolex	Tubificoides	Exact		
+Pennales	Bacillariophyceae	Exact		
+Pennatula phosporea	Pennatula phosphorea	antag felstav		
+Peridiniella catenat	Peridiniella catenata	antag felstav		
+Peridiniopsis penardiforme	Peridiniopsis penardiformis	Exact		
+Peridinium achromaticum	Protoperidinium achromaticum	antag felstav		
+Peridinium inconspicuum	Parvodinium inconspicuum	Exact		
+Peridinium quinquecorne	Peridinium quadridentatum	Exact		
+Peridinium umbonatum	Parvodinium umbonatum	Exact		
+Phacus pyrum	Monomorphina pyrum	Exact		
+Phaeophyceae/Rhodophyta	Algae	antag felstav		
+Phalachroma rotundatum	Phalacroma rotundatum	antag felstav		
+Phascolion (Phascolion) strombus strombus	Phascolion strombus			
+Phascolion strombi	Phascolion strombus	Exact		
+Phaxas pellucida	Phaxas pellucidus	Exact		
+Pherusa falcata	Lamispina falcata			
+Philbertia	Raphitoma	exact		
+Philbertia linearis	Raphitoma linearis	Exact		
+Philine aperta	Philine quadripartita	Exact		
+Philine scabra	Hermania scabra	Exact		
+Philomedes globosus	Philomedes brenda	Exact		
+Phoca hispida	Pusa hispida	Exact		
+Phocoena phoceana	Phocoena phocoena	felstav		
+Phoronis mulleri	Phoronis muelleri	antag felstav		
+Phoxocephalus holboelli	Phoxocephalus holbolli	antag felstav		
+PHRYGANEIDAE	Phryganeidae	felstav		
+Phyllodoce	Polyodontes	OK	1007451	
+Phylo kupferi	Phylo kupfferi	Exact		
+Phylo norvegica	Phylo norvegicus	Exact		
+Picoplankton	Picoplankton			
+Pilayella littoralis	Pylaiella littoralis	Exact		
+PISCICOLA SP	Piscicola			
+Pisida longicornis	Pisidia longicornis	antag felstav		
+Pisidiidae	Sphaeriidae	Exact		
+Pistella lornensis	Pista lornensis	Exact		
+#Plagioselmis prolonga	Teleaulax amphioxeia			Båda accepterade i PEG och i Worms
+Planctonema lauterbornii	Binuclearia lauterbornii	Exact		
+Planktolyngbya subtilis	Planktolyngbya limnetica	Exact		
+Planorbis corneus	Planorbarius corneus	Exact		
+Platyhelmintes	Platyhelminthes	antag felstav		
+Pleopis polyphaemoides	Podon polyphemoides	antag felstav		
+Pleopsis polyphemoides	Podon polyphemoides	Exact		
+Pleurochrysis carterae	Chrysotila carterae	Exact		
+Pleuronectes platessa/Limanda limanda	Pleuronectidae			
+Pleuronectes platessa/Platichthys flesus	Pleuronectidae			
+Podarkeopsis helgolandica	Podarkeopsis helgolandicus	antag felstav		
+Podoceropsis nitida	Gammaropsis nitida	Exact		
+Podon leuckarti	Podon leuckartii	Exact		
+Podon leukartii	Podon leuckartii	antag felstav		
+Polinices montagui	Euspira montagui	Exact		
+Polinices pulchella	Euspira nitida	Exact		
+Polinices pulchellus	Euspira nitida	Exact		
+Polybius holsatus	Liocarcinus holsatus	Exact		
+POLYCENTROPODIDAE	Polycentropodidae	felstav		
+Polydora caeca	Dipolydora coeca	Exact		
+Polydora caulleryi	Dipolydora caulleryi	Exact		
+Polydora cliata	Polydora ciliata	antag felstav		
+Polydora coeca	Dipolydora coeca	Exact		
+Polydora flava	Dipolydora flava	Exact		
+Polydora quadrilobata	Dipolydora quadrilobata	Exact		
+Polydora sp (cf ciliata)	Polydora	antag felstav		
+Polyides rotundus	Polyides rotunda	antag felstav		
+Polykrikos schwarzii	Polykrikos kofoidii	Exact		
+Polymastia spp.	Polymastia	felstav		
+Polynoe kinbergi	Enipo kinbergi	Exact		
+Polysiphonia brodiaei	Polysiphonia brodiei	Exact		
+Polysiphonia/Ceramium	Rhodymeniophycidae	antag felstav		
+Pomatoceros triqueter	Spirobranchus triqueter	Exact		
+Pompholyx	Scleroderma	OK	1001311	
+Pontoporeia affinis	Monoporeia affinis	Exact		
+Porifera 5	Porifera	felstav		
+Porifera1	Porifera	felstav		
+Porifera2	Porifera	felstav		
+Porifera4	Porifera	felstav		
+Potamogeton filiformis	Stuckenia filiformis	Exact		
+Potamogeton gramineus x perfoliatus	Potamogeton gramineus × perfoliatus	Exact		
+Potamogeton gramineus x perfoliatus	Potamogeton gramineus × perfoliatus	felstav		
+Potamogeton pectinatus	Stuckenia pectinata	Exact		
+Potamogeton vaginatus	Stuckenia vaginata	Exact		
+Potamopygrus antipodarum	Potamopyrgus antipodarum	antag felstav		
+Potamopyrgus antopodarum	Potamopyrgus antipodarum	antag felstav		
+Potamopyrgus jenkinsi	Potamopyrgus antipodarum	Exact		
+Prasinophyceae	Pyramimonadophyceae	Exact		
+Prasinophyceae (Micromonadophyceae)	Prasinophyceae	antag felstav		
+PRAUNUS SP.	Praunus			
+Praxilella praetermissa	Praxillella praetermissa	antag felstav		
+Prionospia dubia	Prionospio dubia	Exact		
+Prionospio banyulensis	Aurospio banyulensis	Exact		
+Prionospo banyulensis	Prionospio banyulensis	antag felstav		
+Proboscia alata var. indica	Proboscia	antag felstav		
+Proclea graffi	Proclea graffii	antag felstav		
+Proclea graffiii	Proclea graffii	antag felstav		
+Prorocentrum minimum	Prorocentrum cordatum	Exact		
+Prostoma obscurum	Cyanophthalma obscura	Exact		
+Prostomes	Prostomatea	antag felstav		
+Proterythropsis vigilans	Nematopsides vigilans	exact		
+Protoctista	Biota	Special		
+Protodinium simplex	Gymnodinium simplex	antag felstav		
+Protomedia fasciata	Protomedeia fasciata	antag felstav		
+Protoperidinium marielebourae	Protoperidinium marielebouriae	Exact		
+Protoperidinium marie-lebouriae	Protoperidinium marielebouriae	felstav		
+Protoperidinium minutum	Archaeperidinium minutum	Exact		
+Protoperidinium quinquecorne	Peridinium quadridentatum	Exact		
+Prymnesiophyceae	Coccolithophyceae	Exact		
+Psetta maxima	Scophthalmus maximus	Exact		
+Pseudamussium septemradiatum	Pseudamussium peslutrae	Exact		
+Pseudeulalia exigua	Protomystides exigua	Exact		
+Pseudione callanassae	Pseudione callianassae	antag felstav		
+Pseudobodo	Pseudobobo	Exact		
+Pseudobodo tremulans	Pseudobobo tremulans	Exact		
+Pseudocalanus minutus elongatus	Pseudocalanus elongatus	exact		
+Pseudocuma gilsoni	Monopseudocuma gilsoni	Exact		
+Pseudolithoderma sp.	Pseudolithoderma	felstav		
+Pseudopedinella pyriforme	Pseudopedinella pyriformis	Exact		
+Psilaster andromeda/Pseudarchaster parelii	Asteroidea			
+Psolus panthapus	Psolus phantapus	antag felstav		
+PSYCHOMYIIDAE	Psychomyiidae	felstav		
+Pusillina sarsi	Pusillina sarsii	Exact		
+Pylaiella littoralis/Ectocarpus	Ectocarpus/Pylaiella	antag felstav		
+Pylaiella littoralis/Ectocarpus	Ectocarpus/Pylaiella		233758	Artkomplex
+Pyramimona	Pyramimonas	antag felstav		
+Pyrophacus horologicum	Pyrophacus horologium	Exact		
+Pyura tesselata	Pyura tessellata	Exact		
+Radiolaria	Radiozoa			
+Radiospermum	Radiosperma	Exact		
+Radix balthica	Ampullaceana balthica	Exact		
+Radix labiata	Peregriana labiata	Exact		
+Radix ovata	Ampullaceana balthica	Exact		
+Radix peregra	Peregriana labiata	Exact		
+Ranunculus peltatus baudotii	Ranunculus baudotii		224928	
+Ranunculus peltatus ssp. baudotii	Ranunculus baudotii	Exact		
+Ranunculus peltatus ssp. peltatus	Ranunculus peltatus agg.			
+Ranunculus peltatus subsp. Baudoti	Ranunculus baudotii	felstav		
+Ranunculus peltatus subsp. baudotii	Ranunculus baudotii	Exact		
+Ranunculus peltatus subsp. Baudotii	Ranunculus baudotii	Exact		
+Ranunculus peltatus subsp. peltatus	Ranunculus peltatus agg.			
+Rhizomonas	Solenicola	Exact		
+Rhizomonas setigera	Solenicola setigera	Exact		
+Rhizosolenia eriensis	Urosolenia eriensis	OK	237463	
+Rhizosolenia hebetata f, semispina	Rhizosolenia hebetata f. semispina	felstav		
+Rhizosolenia longiseta	Urosolenia longiseta	OK	237464	
+Rhizosolenia setigera f, pungens	Rhizosolenia setigera f. pungens	felstav		
+Rhizsolenia setigera	Rhizosolenia setigera	antag felstav		
+Rhodomonas lacustris v. lacustris	Rhodomonas lacustris var. lacustris			
+Rhodomonas lacustris v. nannoplanctica	Plagioselmis nannoplanctica			"Finns i Dyntaxa som: Plagioselmis nannoplanctica, med ""Rhodomonas lacustris v. nannoplanctica"" som synonym"
+Rhodophyceae	Rhodophyta	exact		
+Roxania uhiculus	Roxania utriculus	antag felstav		
+Ruppia cirrhosa	Ruppia spiralis	Exact		
+Ruppia/Zannichellia	Ruppia agg.		6020436	Artkomplex
+Ruppia/Zannichellia palustris/Stuckenia pectinata	Alismatales	antag felstav		
+Sabella penicillus	Sabella pavonina	Exact		
+SABELLIDAE	Sabellidae			
+Sabellides octocirrata	Ampharete octocirrata	Exact		
+Sagittaria natans x sagittifolia	Sagittaria natans × sagittifolia	Exact		
+Sagittaria natans x sagittifolia	Sagittaria natans × sagittifolia	felstav		
+Saxicavella jeffreysii	Saxicavella jeffreysi	antag felstav		
+Scenedesmus acuminatus	Tetradesmus lagerheimii	Exact		
+Scenedesmus arcuatus	Comasiella arcuata	Exact		
+Scenedesmus arcuatus var. arcuatus	Comasiella arcuata var. arcuata	Exact		
+Scenedesmus dimorphus	Tetradesmus dimorphus	exact		
+Scenedesmus obliquus	Tetradesmus obliquus	exact		
+Scenedesmus quadricauda	Desmodesmus communis	OK	6001101	
+Schistomeringos eliasoni	Parougia eliasoni	Exact		
+Schoenoplectus tabernaemontan	Schoenoplectus tabernaemontani	felstav		
+Scionella lornensis	Pista lornensis	Exact		
+Scolecithridae	Scolecithricidae	antag felstav		
+scolelepis squamata	Scolelepis squamata	felstav		
+Scrippsiella acuminata	Scrippsiella trochoidea	antag felstav		
+Scuticociliate	Scuticociliatia	antag felstav		
+Scypha	Sycon	exact		
+Scypha ciliata	Sycon ciliatum	exact		
+Selenastrum gracile	Messastrum gracile	exact		
+Siphomnophora	Siphonophorae	antag felstav		
+Siphonocetes coletti	Centraloecetes kroyeranus			
+Siphonoecetes colletti	Centraloecetes kroyeranus			
+Siphonoecetes kroeyeranus	Centraloecetes kroyeranus	Exact		
+Siphonoecetes kroeyeranus	Centraloecetes kroyeranus			
+Siphonophora	Siphonophorae	Exact		
+Skorpbildande alger	Rhodophyta	antag felstav		
+Solea Solea	Solea solea	felstav		
+Sosanopsis wireni	Sosane wireni	Exact		
+Spatangoides	Spatangoida	felstav		
+Spathulodinium pseudonoctiluca	Spatulodinium pseudonoctiluca	Exact		
+Spermothamnion/Bonnemaisonia	Rhodymeniophycidae			
+Sphacelaria bipinnata	Sphacelaria cirrosa	Exact		
+Sphacelaria caespitula	Sphaceloderma caespitula	Exact		
+Sphacelaria plumosa	Chaetopteris plumosa	Exact		
+Sphaerodoropsis minuta	Sphaerodoridium minutum	Exact		
+Sphaeroma hookeri	Lekanesphaera hookeri			
+Sphaerosyllis tetralix	Prosphaerosyllis tetralix			
+Spiophanes kroyeri	Spiophanes kroyeri	antag felstav		
+Spiophanes kröyeri	Spiophanes kroyeri	antag felstav		
+Spiophanes kröyeri	Spiophanes kroyeri			
+Spirontocaris lilljeborgi	Spirontocaris liljeborgii	Exact		
+Spirorbidae	Spirorbinae	Exact		
+Staurosira berolinensis	Belonastrum berolinense	Exact		
+Stenula rubrovittata	Metopa rubrovittata	Exact		
+Stichastella rosea	Stichastrella rosea	felstav		
+Stichopus tremulus	Parastichopus tremulus	Exact		
+Streblosoma intestinalis	Streblosoma intestinale	Exact		
+Streblospio benedicti s.lat.	Streblospio benedicti	exact		
+Streblospio schrubsoli	Streblospio shrubsolii	antag felstav		
+Strobilidium epacrum	Pelagostrobilidium epacrum	Exact		
+Strobilidium spiralis	Strobilidium spiralis	hårt mellanslag		
+Strombidium coronatum	Spirostrombidium sauerbreyae			Finns i worms som synonym till Spirostrombidium sauerbreyae. Båda har AphiaID, ingen finns i dyntaxa
+Strålfeniga fiskar (stim)	Actinopterygii			Klass
+Suberites luetkeni	Suberites virgultosus	Exact		
+Syllides longocirrata	Syllides longocirratus	felstav		
+Synchelidium haplocheles	Synchelidium tenuimanum	OK	243791	
+Synedra acus	Ulnaria acus	OK	248618	
+Synedra acus var. acus	Ulnaria acus	Exact		
+Synedra acus var. angustissima	Ulnaria delicatissima var. angustissima	Exact		
+Synedra berolinensis	Synedra berolinensis var. berolinensis	exact		
+Synedra delicatissima var. angustissima	Ulnaria delicatissima var. angustissima			"Finns i Worms som synonym till ""Ulnaria delicatissima var. Angustissima"" som i sin tur finns i Dyntaxa"
+Synedra ulna var. ulna	Ulnaria ulna	Exact		
+Synelmis klatti	Glyphohesione klatti	Exact		
+TANYPODINAE	Tanypodinae	felstav		
+TANYTARSINI	Tanytarsini	felstav		
+Taranis cirrata	Taranis moerchii	Exact		
+Tectura testudinalis	Testudinalia testudinalis	Exact		
+Tellina fabula	Fabulina fabula	Exact		
+Tellina pygmaea	Asbjornsenia pygmaea	Exact		
+Tellina tenuis	Macomangulus tenuis	Exact		
+Telonema antarctica	Telonema antarcticum	Exact		
+Temora stylifera	Temora	antag felstav		
+Tenellia tergipes	Tergipes tergipes	Exact		
+Terebellides stroemi	Terebellides stroemii	Exact		
+Tetra?dron caudatum	Tetraedron caudatum	antag felstav		
+Tetraedriella jovetii	Tetraëdriella jovetii	Exact		
+Tetraedron caudatum	Tetraëdron caudatum	exact		
+Tetraedron minimum	Tetraëdron minimum	OK	257945	
+Tetraëdron tetraedron minimum	Tetraëdron minimum	antag felstav		
+Tetraedron triangulare	Tetraëdron triangulare	exact		
+Tetrastrum staurogeniaeforme	Tetrastrum staurogeniiforme	Exact		
+Thalassiosira anguste-lineata	Thalassiosira angustelineata	Exact		
+Thalassiosira constricta	Bacterosira constricta	Exact		
+Thalassiosira weissflogii	Conticribra weissflogii	Exact		
+Tharyx marioni	Aphelochaeta marioni	Exact		
+Tharyx mcintoshi	Aphelochaeta mcintoshi	Exact		
+Tharyx multibranchis	Aphelochaeta multibranchis	Exact		
+Thecosomata	Euthecosomata	OK	6002542	
+Thecosomatida	Euthecosomata	OK	6002542	
+Thracia papyracea	Thracia phaseolina	Exact		
+Thyasira equalis	Parathyasira equalis	Exact		
+Thyasira eumyaria	Genaxinus eumyarius	Exact		
+Thyasira flexuosus	Thyasira flexuosa	antag felstav		
+Thyasira sarsi	Thyasira sarsii	felstav		
+Tintinida	Tintinnidae	antag felstav		
+Tintinidae	Tintinnidae	antag felstav		
+Tintinnina	Tintinnida	Exact		
+Tintinnopsis corniger	Rhizodomus tagatzi			lägga till släkte i whitelist
+Tonicella rubra	Boreochiton ruber	Exact		
+Trachythyone elongata	Leptopentacta elongata	Exact		
+TRICHOPTERA	Trichoptera	felstav		
+Triglopsis quadricornis	Myoxocephalus quadricornis	Exact		
+Tubificidae	Naididae	exact		
+TUBIFICIDAE	Naididae			
+Tubificoides benedeni	Edukemius benedii	Exact		
+Tubularia larynx	Ectopleura larynx	exact		
+Turbellaria indet	Turbellaria	Pseudotaxon	4000150	
+Turbonilla crenata	Pyrgiscus crenatus	Exact		
+Turbonilla fulvocincta	Pyrgiscus crenatus	exact		
+Turitella communis	Turritella communis	antag felstav		
+Turitella communis	Turritellinella tricarinata			
+Typosyllis	Syllis	exact		
+Typosyllis cornuta	Syllis cornuta	Exact		
+Typosyllis variegata	Syllis variegata	Exact		
+Ulnaria ulna	Synedra ulna var. subcontracta	exact		
+Ulnaria ulna var. acus	Ulnaria acus	Exact		
+Ulva procera/prolifera	Ulva			
+Unicells	Unicell	antag felstav		
+Unicells and flagellates	Unicells and flagellates			
+Unicells and flagellates species incertae sedis	Unicells and flagellates			
+Unicells species incertae sedis	Unicell			
+Unicells_and_flagellates	Unicells and flagellates	antag felstav		
+Unicells_and_flagellates	Unicells and flagellates			
+Unidentified zoopl.	Animalia	Special		
+Urochordata	Tunicata	Exact		
+Uroglena americana	Uroglenopsis americana	exact		
+Vanella	Vannella	Exact		
+Varicorbula gibba	Corbula gibba	Exact		
+Venus fasciata	Clausinella fasciata	Exact		
+Venus gallina	Chamelea striatula	Exact		
+Venus gallina striatula	Chamelea striatula	antag felstav		
+Verrucophora farcimen	Pseudochattonella farcimen	Exact		
+Vertebrata	Animalia	Special		
+Vitreolina philippii	Vitreolina philippi	felstav		
+Westwoodilla acutifrons	Westwoodilla caecula	Exact		
+Westwoodilla hyalina	Westwoodilla caecula	Exact		
+Woloszynskia halophila	Biecheleria halophila	Exact		
+Xanthidium antilopeum	Xanthidium antilopaeum			
+Yoldiella fraterna	Yoldiella nana	exact		
+yoldiella tenuis	Yoldiella philippiana	Exact		
+Yoldiella tenuis	Yoldiella philippiana	Exact		
+Zannichellia palustris var. major	Zannichellia major	Exact		
+Zannichellia palustris var. repens	Zannichellia palustris var. palustris	Exact		
+Zannichellia palustris/Stuckenia pectinata	Potamogetonaceae	antag felstav		
+Zannichellia/Ruppia/Stuckenia pectinata/Zostera marina	Alismatales			
+Zoealarve	Decapoda			
+Ulva compressa/intestinalis	Ulva			
+Apedinella spinifera	Apedinella radians			
+Dinophyta	Dinophyceae			
+Pareuchaeta	Paraeuchaeta			
+Pseudocumidae	Pseudocumatidae			

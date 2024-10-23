@@ -714,7 +714,7 @@ Iphinoe	genus
 Ischnomesus	genus
 Ischnura	genus
 Ischyrocerus	genus
-Isoëtes	genus
+Isoï¿½tes	genus
 Ithytrichia	genus
 Jaera	genus
 Janira	genus
@@ -1518,8 +1518,8 @@ Terebratulina	genus
 Tergipes	genus
 Testudinalia	genus
 Tetradesmus	genus
-Tetraëdriella	genus
-Tetraëdron	genus
+Tetraï¿½driella	genus
+Tetraï¿½dron	genus
 Tetraselmis	genus
 Tetrastemma	genus
 Tetrastrum	genus

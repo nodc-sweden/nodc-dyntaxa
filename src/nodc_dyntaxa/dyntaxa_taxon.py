@@ -19,7 +19,7 @@ class DyntaxaTaxon:
 
     def _cleanup_data(self) -> None:
         self._df = self._df.filter(~pl.col(self.first_col).str.starts_with('#'))
-        self._df = self._df.with_columns(pl.col('taxonId').map_elements(lambda x: x.split(':')[-1].strip()).alias(
+        self._df = self._df.with_columns(pl.col('taxonId').map_elements(lambda x: x.split(':')[-1].strip(), return_dtype=str).alias(
             'taxon_id'))
         if self._filter_list:
             self._df.filter(pl.col('scientificName').str.to_lowercase().is_in(self._filter_list))
