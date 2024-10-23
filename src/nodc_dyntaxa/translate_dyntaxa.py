@@ -25,14 +25,14 @@ class TranslateDyntaxa:
         try:
             return self._df.row(by_predicate=(pl.col('taxon_name_from') == name), named=True)['taxon_name_to']
         except pl.exceptions.NoRowsReturnedError:
-            return False
+            return ''
 
     def get_dyntaxa_id(self, name: str) -> str | bool:
         """Returns the translated taxon name of the given name"""
         try:
             return self._df.row(by_predicate=(pl.col('taxon_name_from') == name), named=True)['taxon_id (if not in DynTaxa)']
         except pl.exceptions.NoRowsReturnedError:
-            return False
+            return ''
 
 
 class _TranslateDyntaxa:
