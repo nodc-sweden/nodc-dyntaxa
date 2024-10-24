@@ -7,7 +7,7 @@ taxon_name_from	taxon_name_to	Match_type	taxon_id (if not in DynTaxa)	Note
 222911	Ranunculus peltatus agg.			
 224929	Ranunculus peltatus subsp. peltatus			
 232817	Chaetomorpha linum		251416	
-322829	Cladophora rupestris	felstav		rätt 232829
+322829	Cladophora rupestris	felstav		rÃ¤tt 232829
 1008564	Ulva			Enteromorpha och Ulva sammanslagna i dyntaxa
 1008571	Ulva		1016242	
 2002573	Ctenocladaceae		2002578	
@@ -16,21 +16,21 @@ taxon_name_from	taxon_name_to	Match_type	taxon_id (if not in DynTaxa)	Note
 ###Flagellate			99990002	AA filterfunktion
 ###Fragilaria capucina	Fragilaria capucina s.lat.	OK	238013	
 ###Gomphonema olivaceum	Gomphonema olivaceum s.lat.	Exact		
-###Gymnodinium simplex	Protodinium simplex	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Monoraphidium arcuatum	Ankistrodesmus arcuatus	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Odontella sinensis	Trieres chinensis	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Oocystis solitaria	Neglectella solitaria	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Gymnodinium simplex	Protodinium simplex	antag felstav		Tills att Dyntaxa Ã¤r uppdaterat. Kom ihÃ¥g att ta bort den bakvÃ¤nda Ã¶versÃ¤ttningen nÃ¤r dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Monoraphidium arcuatum	Ankistrodesmus arcuatus	antag felstav		Tills att Dyntaxa Ã¤r uppdaterat. Kom ihÃ¥g att ta bort den bakvÃ¤nda Ã¶versÃ¤ttningen nÃ¤r dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Odontella sinensis	Trieres chinensis	antag felstav		Tills att Dyntaxa Ã¤r uppdaterat. Kom ihÃ¥g att ta bort den bakvÃ¤nda Ã¶versÃ¤ttningen nÃ¤r dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Oocystis solitaria	Neglectella solitaria	antag felstav		Tills att Dyntaxa Ã¤r uppdaterat. Kom ihÃ¥g att ta bort den bakvÃ¤nda Ã¶versÃ¤ttningen nÃ¤r dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
 ###Paraphysomonas	Paraphysomonas s.lat.	Exact		
 ###Pectinaria	Pectinaria s.lat.	OK	1007565	
 ###Picoplankton			99990005	AA filterfunktion
-###Rhodomonas baltica	Cryptomonas baltica	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
-###Scrippsiella hangoei	Apocalathium malmogiense	antag felstav		automatic dyntaxa translation. Båda accepterade i Dyntaxa Odontella sinensis accepterad i HELCOM PEG
-###Scrippsiella trochoidea	Scrippsiella acuminata	antag felstav		Tills att Dyntaxa är uppdaterat borde denna översättning göras. Men eftersom några stlcl inom Scrippsiella fortfarande ska heta Scrippsiella kommenterades denna ut för att kunna leverera enligt HELCOM PEG 
+###Rhodomonas baltica	Cryptomonas baltica	antag felstav		Tills att Dyntaxa Ã¤r uppdaterat. Kom ihÃ¥g att ta bort den bakvÃ¤nda Ã¶versÃ¤ttningen nÃ¤r dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+###Scrippsiella hangoei	Apocalathium malmogiense	antag felstav		automatic dyntaxa translation. BÃ¥da accepterade i Dyntaxa Odontella sinensis accepterad i HELCOM PEG
+###Scrippsiella trochoidea	Scrippsiella acuminata	antag felstav		Tills att Dyntaxa Ã¤r uppdaterat borde denna Ã¶versÃ¤ttning gÃ¶ras. Men eftersom nÃ¥gra stlcl inom Scrippsiella fortfarande ska heta Scrippsiella kommenterades denna ut fÃ¶r att kunna leverera enligt HELCOM PEG 
 ###Synedra ulna	Ulnaria ulna s.lat.	OK	262369	
 ###test			99990099	AA filterfunktion
 ###Unicell			99990001	AA filterfunktion
 ###Unicells and flagellates			99990003	AA filterfunktion
-#Ctenophora	Ctenophora (Ctenophora)	OK	249727	Kammanet i dyntaxa har id 5000006 den andra 249727 är en insekt
+#Ctenophora	Ctenophora (Ctenophora)	OK	249727	Kammanet i dyntaxa har id 5000006 den andra 249727 Ã¤r en insekt
 Abyssoninoe hibarnica	Abyssoninoe hibernica	antag felstav		
 ACARIDA	Acaridae	felstav		
 Acarina	Acari	Exact		
@@ -59,7 +59,7 @@ Aglaophamus pulchra	Aglaophamus pulcher	Exact
 Aglaophamus rubella	Aglaophamus agilis	Exact		
 AGRAYLEA SP.	Agraylea	felstav		
 Algae	Algae			
-Algae avlång	Algae			
+Algae avlÃ¥ng	Algae			
 Algae bananform	Algae			
 Algae borst	Algae			
 Algae koloni	Algae	antag felstav		
@@ -97,7 +97,7 @@ Angulus tenuis	Macomangulus tenuis	Exact
 Ansates pellucida	Patella pellucida	Exact		
 Antalis entale	Antalis entalis	antag felstav		
 Anthomedusae	Anthoathecata	Exact		
-APATANIANA SP.	Apataniana	felstav		uppdatera artdatabanken/dyntaxa och ev. whitelist med släkte
+APATANIANA SP.	Apataniana	felstav		uppdatera artdatabanken/dyntaxa och ev. whitelist med slÃ¤kte
 Aphanizomenon flosaquae	Aphanizomenon flos-aquae			
 Aphanizomenon issatschenkoi	Cuspidothrix issatschenkoi	exact		
 Aphanothece bachmannii	Anathece bachmannii	Exact		
@@ -131,12 +131,12 @@ Axinella infundibuliformis / Phakellia ventilabrum	Axinella infundibuliformis/Ph
 Axinella infundibuliformis/Phakellia ventilabrum	Axinella infundibuliformis/Phakellia ventilabrum		6020449	Artkomplex
 Balanus improvis	Amphibalanus improvisus	antag felstav		
 Balanus improvisus	Amphibalanus improvisus	exact		
-Balcis devians	Vitreolina philippi sensu Warén	Exact	233612	
-Balcis philippi	Vitreolina philippi sensu Warén	Exact	233612	
+Balcis devians	Vitreolina philippi sensu WarÃ©n	Exact	233612	
+Balcis philippi	Vitreolina philippi sensu WarÃ©n	Exact	233612	
 Barrufata resplendens	Barrufeta resplendens	felstav		
 Batrachium baudottii	Ranunculus baudotii		224928	
 Bela brachystoma	Sorgenfreispira brachystoma	Exact		
-Beröe cucumis	Beroe cucumis	Exact		
+BerÃ¶e cucumis	Beroe cucumis	Exact		
 Bivalvia (Lamellibranchiata)	Bivalvia	antag felstav		
 Bonnemaisonia hamifera / Spermothamnion repens	Bonnemaisonia hamifera/Spermothamnion repens		235007	Artkomplex
 Bosmina (Eubosmina) coregoni	Bosmina coregoni	Exact		
@@ -167,14 +167,14 @@ Ceramium rubrum	Ceramium virgatum	Exact
 Ceramium strictum	Ceramium tenuicorne	Exact		
 Ceramium/Polysiphonia	Ceramiales			
 Ceratium bucephalum	Tripos bucephalus	Exact		
-Ceratium furca	Tripos furca	Exact		växtplankton
-Ceratium fusus	Tripos fusus	Exact		växtplankton
-Ceratium horridum	Tripos horridus	Exact		växtplankton
-Ceratium lineatum	Tripos lineatus	Exact		växtplankton
-Ceratium longipes	Tripos longipes	Exact		växtplankton
-Ceratium macroceros	Tripos macroceros	Exact		växtplankton
-Ceratium minutum	Tripos minutus	Exact		växtplankton
-Ceratium tripos	Tripos muelleri	Exact		växtplankton
+Ceratium furca	Tripos furca	Exact		vÃ¤xtplankton
+Ceratium fusus	Tripos fusus	Exact		vÃ¤xtplankton
+Ceratium horridum	Tripos horridus	Exact		vÃ¤xtplankton
+Ceratium lineatum	Tripos lineatus	Exact		vÃ¤xtplankton
+Ceratium longipes	Tripos longipes	Exact		vÃ¤xtplankton
+Ceratium macroceros	Tripos macroceros	Exact		vÃ¤xtplankton
+Ceratium minutum	Tripos minutus	Exact		vÃ¤xtplankton
+Ceratium tripos	Tripos muelleri	Exact		vÃ¤xtplankton
 Ceratoneis closterium	Cylindrotheca closterium	Exact		
 CERATOPOGONIDAE	Ceratopogonidae	felstav		
 Cercopagis (Cercopagis) pengoi	Cercopagis pengoi	antag felstav		
@@ -188,7 +188,7 @@ Chaetoceros socialis f. socialis	Chaetoceros socialis		353271
 Chaetoceros throndsenii v. throndseinii	Chaetoceros throndsenii var. throndsenii	antag felstav		
 Chaetoceros throndsenii var, throndseinii	Chaetoceros throndsenii var. throndsenii	antag felstav		
 Chaetoceros throndsenii var. Throndseinii	Chaetoceros throndsenii var. throndsenii	antag felstav		
-Chaetoceros socialis f. socialis	Chaetoceros socialis		353271	
+ChaetocerosÂ socialisÂ f.Â socialis	Chaetoceros socialis		353271	
 Chaetocladius	Chaetocladus	phonetic		
 Chaetodermomorpha	Caudofoveata	Exact		
 Chaetogammarus marinus	Echinogammarus marinus	Exact		
@@ -258,7 +258,7 @@ Cyanophtalma obscura	Cyanophthalma obscura	antag felstav
 Cyanophycae	Cyanophyceae	antag felstav		
 Cyanophyta	Cyanobacteria	Exact		
 Cyanophyta sp	Cyanophyta 	antag felstav		
-Cyclidium claucoma	Cyclidium glaucoma	felstav		lägga till släkte i whitelist
+Cyclidium claucoma	Cyclidium glaucoma	felstav		lÃ¤gga till slÃ¤kte i whitelist
 Cyclotella,	Cyclotella			
 Cymatopleura solea	Cymatopleura solea var. solea	OK	237914	
 Cymbella lanceolata	Cymbella neolanceolata	Exact		
@@ -275,7 +275,7 @@ Diastylis luficera	Diastylis lucifera	antag felstav
 Diastyloides biplicata	Diastyloides biplicatus	Exact		
 Diastyloides serrata	Diastyloides serratus	Exact		
 Diatomophyceae	Bacillariophyta	Exact		
-Dictyocha speculum	Octactis speculum	antag felstav		Tills att Dyntaxa är uppdaterat. Kom ihåg att ta bort den bakvända översättningen när dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
+Dictyocha speculum	Octactis speculum	antag felstav		Tills att Dyntaxa Ã¤r uppdaterat. Kom ihÃ¥g att ta bort den bakvÃ¤nda Ã¶versÃ¤ttningen nÃ¤r dessa aktiveras (t.ex. Octactis speculum -> Dictyocha speculum)
 Dictyosphaerium ehrenberg	Dictyosphaerium ehrenbergianum	antag felstav		
 Dictyosphaerium pulchellum	Mucidosphaerium pulchellum	Exact		
 Dilsea carnosa / Palmaria palmata	Dilsea carnosa/Palmaria palmata	felstav	6020441	Artkomplex
@@ -421,8 +421,8 @@ IDOTEA SP.	Idotea	felstav
 Idothea	Idotea	Exact		
 INSECTA	Insecta	felstav		
 Invertebrata	Animalia	Special		
-Isoetes	Isoëtes	Exact		
-Isoetes echinospora	Isoëtes echinospora	Exact		
+Isoetes	IsoÃ«tes	Exact		
+Isoetes echinospora	IsoÃ«tes echinospora	Exact		
 JAERA SP.	Jaera	felstav		
 Jassa falcata	Jassa marmorata	OK	243627	
 Katablepharis remigera	Kathablepharis remigera	Exact		
@@ -501,7 +501,7 @@ Macoma calcaria	Macoma calcarea	antag felstav
 Macropipus depurator	Liocarcinus depurator	antag felstav		
 Macropipus dupurator	Liocarcinus depurator	Exact		
 Malletia obtusa	Malletia pianii			
-Mallomonas ploesslii	Mallomonas acaroides			Mallomonas ploesslii accepterad i worms, har synonym Mallomonas acaroides som är accepterad i dyntaxa
+Mallomonas ploesslii	Mallomonas acaroides			Mallomonas ploesslii accepterad i worms, har synonym Mallomonas acaroides som Ã¤r accepterad i dyntaxa
 Malmgrenia furcosetosa	Pettibonesia furcosetosa	Exact		
 Malmgreniella andreapolis	Malmgrenia andreapolis	Exact		
 Malmgreniella antilopes	Malmgreniella andreapolis	antag felstav		
@@ -567,8 +567,8 @@ Nassarius reticulatus	Tritia reticulata	exact
 Natica alderi	Euspira nitida	Exact		
 Natica montagui	Euspira montagui	Exact		
 Natica poliana	Euspira nitida	Exact		
-Navicula capitata var. capitata	Hippodonta capitata var. capitata	Exact		växtplankton
-Navicula lesmonensis	Hippodonta lesmonensis	Exact		växtplankton
+Navicula capitata var. capitata	Hippodonta capitata var. capitata	Exact		vÃ¤xtplankton
+Navicula lesmonensis	Hippodonta lesmonensis	Exact		vÃ¤xtplankton
 Navicula meniscus	Navicula peregrina var. meniscus	OK	6017822	
 Navicula transitans var transitans	Navicula transitans var. transitans	antag felstav		
 Neanthes succinea	Alitta succinea	exact		
@@ -688,7 +688,7 @@ PISCICOLA SP	Piscicola
 Pisida longicornis	Pisidia longicornis	antag felstav		
 Pisidiidae	Sphaeriidae	Exact		
 Pistella lornensis	Pista lornensis	Exact		
-#Plagioselmis prolonga	Teleaulax amphioxeia			Båda accepterade i PEG och i Worms
+#Plagioselmis prolonga	Teleaulax amphioxeia			BÃ¥da accepterade i PEG och i Worms
 Planctonema lauterbornii	Binuclearia lauterbornii	Exact		
 Planktolyngbya subtilis	Planktolyngbya limnetica	Exact		
 Planorbis corneus	Planorbarius corneus	Exact		
@@ -728,8 +728,8 @@ Porifera1	Porifera	felstav
 Porifera2	Porifera	felstav		
 Porifera4	Porifera	felstav		
 Potamogeton filiformis	Stuckenia filiformis	Exact		
-Potamogeton gramineus x perfoliatus	Potamogeton gramineus × perfoliatus	Exact		
-Potamogeton gramineus x perfoliatus	Potamogeton gramineus × perfoliatus	felstav		
+Potamogeton gramineus x perfoliatus	Potamogeton gramineus Ã— perfoliatus	Exact		
+Potamogeton gramineus x perfoliatus	Potamogeton gramineus Ã— perfoliatus	felstav		
 Potamogeton pectinatus	Stuckenia pectinata	Exact		
 Potamogeton vaginatus	Stuckenia vaginata	Exact		
 Potamopygrus antipodarum	Potamopyrgus antipodarum	antag felstav		
@@ -792,9 +792,9 @@ Ranunculus peltatus subsp. peltatus	Ranunculus peltatus agg.
 Rhizomonas	Solenicola	Exact		
 Rhizomonas setigera	Solenicola setigera	Exact		
 Rhizosolenia eriensis	Urosolenia eriensis	OK	237463	
-Rhizosolenia hebetata f, semispina	Rhizosolenia hebetata f. semispina	felstav		
+Rhizosolenia hebetata f, semispina	RhizosoleniaÂ hebetataÂ f.Â semispina	felstav		
 Rhizosolenia longiseta	Urosolenia longiseta	OK	237464	
-Rhizosolenia setigera f, pungens	Rhizosolenia setigera f. pungens	felstav		
+Rhizosolenia setigera f, pungens	RhizosoleniaÂ setigeraÂ f.Â pungens	felstav		
 Rhizsolenia setigera	Rhizosolenia setigera	antag felstav		
 Rhodomonas lacustris v. lacustris	Rhodomonas lacustris var. lacustris			
 Rhodomonas lacustris v. nannoplanctica	Plagioselmis nannoplanctica			"Finns i Dyntaxa som: Plagioselmis nannoplanctica, med ""Rhodomonas lacustris v. nannoplanctica"" som synonym"
@@ -806,8 +806,8 @@ Ruppia/Zannichellia palustris/Stuckenia pectinata	Alismatales	antag felstav
 Sabella penicillus	Sabella pavonina	Exact		
 SABELLIDAE	Sabellidae			
 Sabellides octocirrata	Ampharete octocirrata	Exact		
-Sagittaria natans x sagittifolia	Sagittaria natans × sagittifolia	Exact		
-Sagittaria natans x sagittifolia	Sagittaria natans × sagittifolia	felstav		
+Sagittaria natans x sagittifolia	Sagittaria natans Ã— sagittifolia	Exact		
+Sagittaria natans x sagittifolia	Sagittaria natans Ã— sagittifolia	felstav		
 Saxicavella jeffreysii	Saxicavella jeffreysi	antag felstav		
 Scenedesmus acuminatus	Tetradesmus lagerheimii	Exact		
 Scenedesmus arcuatus	Comasiella arcuata	Exact		
@@ -844,8 +844,8 @@ Sphaerodoropsis minuta	Sphaerodoridium minutum	Exact
 Sphaeroma hookeri	Lekanesphaera hookeri			
 Sphaerosyllis tetralix	Prosphaerosyllis tetralix			
 Spiophanes kroyeri	Spiophanes kroyeri	antag felstav		
-Spiophanes kröyeri	Spiophanes kroyeri	antag felstav		
-Spiophanes kröyeri	Spiophanes kroyeri			
+Spiophanes krÃ¶yeri	Spiophanes kroyeri	antag felstav		
+Spiophanes krÃ¶yeri	Spiophanes kroyeri			
 Spirontocaris lilljeborgi	Spirontocaris liljeborgii	Exact		
 Spirorbidae	Spirorbinae	Exact		
 Staurosira berolinensis	Belonastrum berolinense	Exact		
@@ -856,9 +856,9 @@ Streblosoma intestinalis	Streblosoma intestinale	Exact
 Streblospio benedicti s.lat.	Streblospio benedicti	exact		
 Streblospio schrubsoli	Streblospio shrubsolii	antag felstav		
 Strobilidium epacrum	Pelagostrobilidium epacrum	Exact		
-Strobilidium spiralis	Strobilidium spiralis	hårt mellanslag		
-Strombidium coronatum	Spirostrombidium sauerbreyae			Finns i worms som synonym till Spirostrombidium sauerbreyae. Båda har AphiaID, ingen finns i dyntaxa
-Strålfeniga fiskar (stim)	Actinopterygii			Klass
+StrobilidiumÂ spiralis	Strobilidium spiralis	hÃ¥rt mellanslag		
+Strombidium coronatum	Spirostrombidium sauerbreyae			Finns i worms som synonym till Spirostrombidium sauerbreyae. BÃ¥da har AphiaID, ingen finns i dyntaxa
+StrÃ¥lfeniga fiskar (stim)	Actinopterygii			Klass
 Suberites luetkeni	Suberites virgultosus	Exact		
 Syllides longocirrata	Syllides longocirratus	felstav		
 Synchelidium haplocheles	Synchelidium tenuimanum	OK	243791	
@@ -881,11 +881,11 @@ Temora stylifera	Temora	antag felstav
 Tenellia tergipes	Tergipes tergipes	Exact		
 Terebellides stroemi	Terebellides stroemii	Exact		
 Tetra?dron caudatum	Tetraedron caudatum	antag felstav		
-Tetraedriella jovetii	Tetraëdriella jovetii	Exact		
-Tetraedron caudatum	Tetraëdron caudatum	exact		
-Tetraedron minimum	Tetraëdron minimum	OK	257945	
-Tetraëdron tetraedron minimum	Tetraëdron minimum	antag felstav		
-Tetraedron triangulare	Tetraëdron triangulare	exact		
+Tetraedriella jovetii	TetraÃ«driella jovetii	Exact		
+Tetraedron caudatum	TetraÃ«dron caudatum	exact		
+Tetraedron minimum	TetraÃ«dron minimum	OK	257945	
+TetraÃ«dron tetraedron minimum	TetraÃ«dron minimum	antag felstav		
+Tetraedron triangulare	TetraÃ«dron triangulare	exact		
 Tetrastrum staurogeniaeforme	Tetrastrum staurogeniiforme	Exact		
 Thalassiosira anguste-lineata	Thalassiosira angustelineata	Exact		
 Thalassiosira constricta	Bacterosira constricta	Exact		
@@ -903,7 +903,7 @@ Thyasira sarsi	Thyasira sarsii	felstav
 Tintinida	Tintinnidae	antag felstav		
 Tintinidae	Tintinnidae	antag felstav		
 Tintinnina	Tintinnida	Exact		
-Tintinnopsis corniger	Rhizodomus tagatzi			lägga till släkte i whitelist
+Tintinnopsis corniger	Rhizodomus tagatzi			lÃ¤gga till slÃ¤kte i whitelist
 Tonicella rubra	Boreochiton ruber	Exact		
 Trachythyone elongata	Leptopentacta elongata	Exact		
 TRICHOPTERA	Trichoptera	felstav		

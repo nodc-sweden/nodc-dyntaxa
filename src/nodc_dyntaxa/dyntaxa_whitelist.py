@@ -9,7 +9,7 @@ class DyntaxaWhitelist:
 
     def __init__(self, path: str | pathlib.Path, **kwargs):
         self._path = pathlib.Path(path)
-        self._encoding = kwargs.get('encoding', 'cp1252')
+        self._encoding = kwargs.get('encoding', 'utf8')
 
         self._header = []
         self._data = dict()
@@ -35,7 +35,7 @@ class DyntaxaWhitelist:
 
     def _load_file(self) -> None:
         ranks = set()
-        with open(self.path) as fid:
+        with open(self.path, encoding=self._encoding) as fid:
             for r, line in enumerate(fid):
                 if not line.strip():
                     continue

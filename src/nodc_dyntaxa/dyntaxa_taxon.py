@@ -15,7 +15,7 @@ class DyntaxaTaxon:
         self._cleanup_data()
 
     def _load_file(self) -> None:
-        self._df = pl.read_csv(self._path, separator='\t')
+        self._df = pl.read_csv(self._path, separator='\t', encoding='utf8')
 
     def _cleanup_data(self) -> None:
         self._df = self._df.filter(~pl.col(self.first_col).str.starts_with('#'))
