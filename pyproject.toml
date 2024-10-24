@@ -6,7 +6,7 @@ authors = [
     {name = "Magnus Wenzer", email = "magnus.wenzer@smhi.se"},
 ]
 dependencies = [
-    "polars>=0.20.16",
+    "polars>=0.20",
     "requests>=2.31.0",
 ]
 requires-python = ">=3.11"
