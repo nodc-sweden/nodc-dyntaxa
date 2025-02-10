@@ -11,6 +11,7 @@ class DyntaxaTaxon:
         self._path = pathlib.Path(path)
         self._filter_list = filter_list
         self._df: pl.DataFrame | None = None
+        self._remove_bad_chars_in_file()
         self._load_file()
         self._cleanup_data()
 
@@ -18,8 +19,15 @@ class DyntaxaTaxon:
     def all_taxon_ranks(self) -> list[str]:
         return list(self._df['taxonRank'].unique())
 
+    def _remove_bad_chars_in_file(self) -> None:
+        with open(self._path, encoding='utf8') as fid:
+            data = fid.read()
+        data = data.replace('"', '<>')
+        with open(self._path, 'w', encoding='utf8') as fid:
+            fid.write(data)
+
     def _load_file(self) -> None:
-        self._df = pl.read_csv(self._path, separator='\t', encoding='utf8')
+        self._df = pl.read_csv(self._path, separator='\t', encoding='utf8', infer_schema_length=int(1e10), ignore_errors=True, schema_overrides={'taxonRemarks': str})
 
     def _cleanup_data(self) -> None:
         self._df = self._df.filter(~pl.col(self.first_col).str.starts_with('#'))
@@ -46,7 +54,7 @@ class DyntaxaTaxon:
             result = self._df.filter(pl.col('scientificName') == name, pl.col('taxonomicStatus') == 'accepted')
             if result.is_empty():
                 return False
-            return result['taxon_id'][0]
+            return result['accepted_taxon_id'][0]
             # return self._df.row(by_predicate=(pl.col('scientificName') == name), named=True)['taxon_id']
         except pl.exceptions.NoRowsReturnedError:
             return False
@@ -71,13 +79,6 @@ class DyntaxaTaxon:
             d['taxon_hierarchy'] = ' - '.join(reversed(d['taxon_hierarchy_list']))
             data_with_parent_ranks.append(d)
         return data_with_parent_ranks
-
-        info = []
-        for i in range(len(data[self.first_col])):
-            info.append(dict((key, data[key][i]) for key in data))
-        if len(info) == 1:
-            return info[0]
-        return info
 
     def _add_parent_taxon_rank(self, data: dict, taxon_id: str) -> None:
         if not taxon_id:
