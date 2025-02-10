@@ -85,6 +85,7 @@ def get_dyntaxa_taxon_object(filter_whitelist=True) -> "DyntaxaTaxon":
     if filter_whitelist:
         filter_list = get_dyntaxa_whitelist_object().list
     path = get_config_path("Taxon.csv")
+    print(f'{path=}')
     return DyntaxaTaxon(path, filter_list=filter_list)
 
 
