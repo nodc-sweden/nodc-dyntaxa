@@ -1,14 +1,15 @@
+import functools
 import pathlib
 
 import polars as pl
-import functools
 
 
 class DyntaxaTaxon:
     first_col = 'taxonId'
 
     def __init__(self, path: str | pathlib.Path, filter_list: list[str] | None = None):
-        self._path = pathlib.Path(path)
+        self._original_path = pathlib.Path(path)
+        self._path = pathlib.Path(self._original_path.parent, f'{self._original_path.stem}_fixed{self._original_path.suffix}')
         self._filter_list = filter_list
         self._df: pl.DataFrame | None = None
         self._remove_bad_chars_in_file()
@@ -20,7 +21,7 @@ class DyntaxaTaxon:
         return list(self._df['taxonRank'].unique())
 
     def _remove_bad_chars_in_file(self) -> None:
-        with open(self._path, encoding='utf8') as fid:
+        with open(self._original_path, encoding='utf8') as fid:
             data = fid.read()
         data = data.replace('"', '<>')
         with open(self._path, 'w', encoding='utf8') as fid:
