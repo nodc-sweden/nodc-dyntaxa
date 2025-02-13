@@ -25,12 +25,15 @@ if os.getenv(CONFIG_ENV) and pathlib.Path(os.getenv(CONFIG_ENV)).exists():
     CONFIG_DIRECTORY = pathlib.Path(os.getenv(CONFIG_ENV))
 
 
-def get_config_path(name: str) -> pathlib.Path:
+def get_config_path(name: str, subdir: str = None) -> pathlib.Path:
     if not CONFIG_DIRECTORY:
         raise NotADirectoryError(f'Config directory not found. Environment path {CONFIG_ENV} does not seem to be set.')
     if name not in CONFIG_FILE_NAMES:
         raise FileNotFoundError(f'No config file with name "{name}" exists')
-    path = CONFIG_DIRECTORY / name
+    root = CONFIG_DIRECTORY
+    if subdir:
+        root = root / subdir
+    path = root / name
     if not path.exists():
         raise FileNotFoundError(f'Could not find config file {name}')
     return path
@@ -53,7 +56,7 @@ def get_dyntaxa_taxon_object(filter_whitelist=True) -> "DyntaxaTaxon":
     filter_list = None
     if filter_whitelist:
         filter_list = get_dyntaxa_whitelist_object().list
-    path = get_config_path("Taxon.csv")
+    path = get_config_path("Taxon.csv", subdir='dyntaxa_dwca')
     return DyntaxaTaxon(path, filter_list=filter_list)
 
 
