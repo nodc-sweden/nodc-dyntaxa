@@ -15,7 +15,7 @@ class TranslateDyntaxa:
         self._cleanup_data()
 
     def _load_file(self) -> None:
-        self._df = pl.read_csv(self._path, separator='\t', encoding='utf8')
+        self._df = pl.read_csv(self._path, separator='\t', encoding='cp1252')
 
     def _cleanup_data(self) -> None:
         self._df = self._df.filter(~pl.col('taxon_name_from').str.starts_with('#'))

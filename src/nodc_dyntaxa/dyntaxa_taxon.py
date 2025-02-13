@@ -1,7 +1,7 @@
+import functools
 import pathlib
 
 import polars as pl
-import functools
 
 
 class DyntaxaTaxon:
