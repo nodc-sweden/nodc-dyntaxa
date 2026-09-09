@@ -54,8 +54,9 @@ class DyntaxaWhitelist:
                 ranks.add(line_dict["rank"])
                 self._data[self._convert_key(line_dict[self.species_key])] = line_dict
 
-    def get(self, key: str = None) -> str | bool:
-        """Returns the given scientific_name if present in the whitelist. Else returns False."""
+    def get(self, key: str) -> str | bool:
+        """Returns the given scientific_name if present in the whitelist.
+        Else returns False."""
         info = self._data.get(self._convert_key(key), None)
         if not info:
             return False
