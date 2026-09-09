@@ -52,14 +52,12 @@ class RedListSpecies:
                     continue
                 split_line = [item.strip() for item in line.split("\t")]
                 if r == 0:
-                    self._header = [
-                        self._convert_header_col(item) for item in split_line
-                    ]
+                    self._header = [self._convert_header_col(item) for item in split_line]
                     continue
                 line_dict = dict(zip(self.header, split_line))
 
                 for col in self.columns_as_keys:
                     self._data[line_dict[col]] = line_dict
 
-    def get_info(self, key: str = None) -> dict | None:
+    def get_info(self, key: str) -> dict | None:
         return self._data.get(key)

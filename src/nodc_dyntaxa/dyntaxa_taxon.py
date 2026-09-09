@@ -86,7 +86,8 @@ class DyntaxaTaxon:
 
     @functools.cache
     def get(self, name: str) -> str | bool:
-        """Returns taxon_id for the given scientific name. Status must be accepted. Returns False if no match found."""
+        """Returns taxon_id for the given scientific name. Status must be accepted.
+        Returns False if no match found."""
         try:
             result = self._df.filter(
                 pl.col("scientificName") == name,
@@ -95,19 +96,8 @@ class DyntaxaTaxon:
             if result.is_empty():
                 return False
             return result["accepted_taxon_id"][0]
-            # return self._df.row(by_predicate=(pl.col('scientificName') == name), named=True)['taxon_id']
         except pl.exceptions.NoRowsReturnedError:
             return False
-
-    def old_get_info(self, **kwargs) -> dict | list[dict] | bool:
-        """Returns information from trophic type list filtered on data in kwargs"""
-        data = self._df.filter(**kwargs).to_dict(as_series=False)
-        info = []
-        for i in range(len(data[self.first_col])):
-            info.append(dict((key, data[key][i]) for key in data))
-        if len(info) == 1:
-            return info[0]
-        return info
 
     def get_info(self, **kwargs) -> dict | list[dict] | bool:
         """Returns information from trophic type list filtered on data in kwargs"""
@@ -124,7 +114,6 @@ class DyntaxaTaxon:
         if not taxon_id:
             return
         parent_data = self._df.filter(taxon_id=taxon_id).to_dicts()
-        # parent_data = self._df.filter(taxon_id=taxon_id, taxon_id_tag='Taxon').to_dicts()
         if len(parent_data) != 1:
             raise Exception(f"Found several parent ids for dyntaxa id {taxon_id} ")
         pdata = parent_data[0]
