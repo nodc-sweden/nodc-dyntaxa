@@ -94,10 +94,16 @@ wheels = [
 ]
 
 [[package]]
-name = "nodc-dyntaxa"
+name = "nodc-config"
 version = "0.1.0"
+source = { git = "https://github.com/nodc-sweden/nodc-config.git?rev=v0.1.0#29d4cafb36ff050c8f53d9f560a8b5580e4cae31" }
+
+[[package]]
+name = "nodc-dyntaxa"
+version = "0.2.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "nodc-config" },
     { name = "polars" },
     { name = "requests" },
 ]
@@ -109,7 +115,8 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "polars", specifier = ">=1.26.0" },
+    { name = "nodc-config", git = "https://github.com/nodc-sweden/nodc-config.git?rev=v0.1.0" },
+    { name = "polars", specifier = ">=1.31.0" },
     { name = "requests", specifier = ">=2.31.0" },
 ]
 
